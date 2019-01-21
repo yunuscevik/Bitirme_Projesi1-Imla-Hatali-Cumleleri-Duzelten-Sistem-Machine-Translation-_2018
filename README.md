@@ -1,1 +1,1 @@
-# Bitirme_Projesi1-Imla-Hatal--C-mleleri-D-zelten-Sistem--Machine-Translation-_2018
+# Bitirme_Projesi1-Imla-Hatal-Cumleleri-Duzelten-Sistem-Machine-Translation-_2018
