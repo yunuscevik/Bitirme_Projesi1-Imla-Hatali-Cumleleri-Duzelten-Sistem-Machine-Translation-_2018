@@ -1,0 +1,35 @@
+﻿
+
+  
+    
+      
+       
+     
+	  
+
+	Ancak iOS’da; Safari’de görüntülenen reklamları engellemenin bugüne kadar bir yolu yoktu. iOS 9’un ilk betasının yayınlanmasının ardından reklam  engelleme özelliği gün yüzüne çıktı. 
+
+	  
+
+	Reklam engelleme yeteneğine kavuşan Safari’nin ayarlar kısmından içerik engelleyiciler yönetilebiliyor. Apple  tarafından onaylanan içerik engelleme yazılımları Ayarlar kısmından görüntüleniyor ve hangi reklamların engelleneceğiyle ilgili ayarlamalar yapılabiliyor. 
+
+	  
+
+	  
+
+	  
+
+	İçerik sağlayıcılar ise bu durumdan haliyle memnun değil. Android ’de yer alan içerik engelleme sistemiyle başı dertte olan sağlayıcıların Apple’ın içerik engelleyici sistemiyle birlikte zorlu bir döneme girmesi bekleniyor. 
+
+	  
+
+	Ayrıca reklam engelleme sisteminin Google ’ın reklam alanındaki faaliyetlerini de zor duruma sokacağı düşünülüyor. Apple’ın içerik engelleme uygulamalarını nasıl kabul edeceği henüz bilinmiyor. 
+
+	  
+
+	Bu uygulamaların tam anlamıyla içerik engelleme görevini yapıp yapmadığını öğrenmek için Apple’ın oldukça titiz bir çalışma yürütmesi gerekiyor. Konuyla ilgili detaylı bilgilerin gelecek haftalarda açığa çıkması bekleniyor. 
+
+	  
+
+	Sony C Tipi USB Bağlantıyı Desteklemiyor!    
+ 

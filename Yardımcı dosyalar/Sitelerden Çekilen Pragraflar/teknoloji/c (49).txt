@@ -1,0 +1,22 @@
+﻿
+
+  
+    
+      
+       
+     
+	'Şarkı virüsü' olarak adlandırılan virüs kısa süre içinde Twitter 'ın mesajlaşma özelliği sayesinde hızla yayıldı.  
+
+	  
+
+	Virüs, Twitter kullanıcılarına "Şarkı harikaymış" veya "Bu şarkı benden sana gelsin" gibi mesajlar ile gelen 'google.gl/skMasm' ve benzeri bağlantılara tıklanması durumunda bulaşıyor. 
+
+	  
+
+	Spam olarak gönderilen mesajın içinde yer alan linke tıklayan kullanıcı sahte bir hesaba yönlendiriliyor.Kullanıcının buradaki sahte Twitter sayfasına giriş yapması durumunda virüs ona da bulaşıyor ve farkında olmadan spam gönderen hesaplardan biri haline geliyor.  
+
+	  
+
+	Konuyla ilgili  Twitter  henüz resmi bir açıklama yapmadı. Şu an için bu virüsten korunmanın tek yolu bu ve benzeri mesajlara tıklamamaktan geçiyor.  
+  
+ 

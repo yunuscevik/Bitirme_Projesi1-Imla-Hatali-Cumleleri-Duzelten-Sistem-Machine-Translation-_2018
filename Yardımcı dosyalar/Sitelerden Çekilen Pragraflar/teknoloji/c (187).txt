@@ -1,0 +1,4 @@
+﻿
+	Milyonlarca insanın aktif olarak kullandığı çevrimiçi görüntülü konuşma ve mesajlaşma ağı Skype’de güvenlik açığı bulundu. İleti kısmına ‘http://:‘ şeklinde yazıldığı zaman Skype uygulaması donma yapıyor, Skype’de yaşanan bu sorun Windows, Android, İOS gibi sürümlerde yaşanırken mobil uygulamaların yanı sıra masaüstü uygulamasında da yaşanmakta. Bu mesajdan sonra Skpye’de tekrar oturum açmak ‘daha önce oturum açıldı’ hatası nedeniyle gerçekleşmiyor. Skype açabilmek için bilgisayarınızı yada mobil cihazınızı yeniden başlatmanız  ve aynı zamanda Skype güncelleme yapmanız gerekiyor. 
+	Skype’den konuyla ilgili henüz bir açıklama yapılmazken. Sorunun nasıl çözüleceği henüz bilinmiyor. 
+	  

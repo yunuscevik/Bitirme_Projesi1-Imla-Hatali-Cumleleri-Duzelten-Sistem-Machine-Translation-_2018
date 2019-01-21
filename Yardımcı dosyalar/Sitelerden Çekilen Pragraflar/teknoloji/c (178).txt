@@ -1,0 +1,11 @@
+﻿
+	Apple, iOS 9’u Dünya Çapında Geliştiriciler Konferansı’nın (WWDC ) ilk gününde tanıttı. iOS 9, getirdiği yeniliklerle kullanıcılarını memnun edecek gibi. Öncelikle artık ekranlarınızı ikiye bölünerek kullanılabiliyorsunuz. Bir yandan internette surf yaparken, diğer yandan e-posta yazabilecek yada video izleyebiliyorsunuz. 
+
+	iOS 9’la Siri de artık daha akıllı hale geliyor. Deneyimlerinize göre size mekan, arkadaş ve uygulama önerebilen Siri, otomobilinize bindiğinizi anlayacak ve sizi tepkilerle yönlendiriyor. 
+
+	 BATARYA ÖMRÜ UZUYOR  
+	iOS 9 ile birlikte gelen önemli özelliklerden biri de iPhone’ların batarya ömrünü 3 saat daha uzatmayı vadetmesi. 3 saat ekstra, düşük enerji moduna geçildiğinde sağlanabiliyor. Yeni sistem, bilinmeyen numara sorununu da sonlandırıyor. Bu tip aramalarda numara artık ekranda gösteriliyor. 
+	iOS 9, artık Haberler’i de (News) içeriyor. Bu uygulamada haber kaynaklarından tüm içerikler tek bir uygulama altında toplanıyor. Kullanıcılar, ilgi alanlarına göre uygulamayı kişiselleştirilebiliyor ve haber kaynaklarına bu uygulama üzerinden ulaşabiliyor. 
+
+	 iOS 9 HANGİ CİHAZLARA GELİYOR?  
+	iOS 9; iPhone 4S, IPhone 5, iPhone 5C, iPhone 5S, iPhone 6, iPhone 6 Plus ile 2, 3 ve 4’üncü jenerasyon iPad, iPad Air, iPad Air 2, iPad Mini, iPad Mini 2, iPad Mini 3 ve 5’inci jenerasyon iPod Touch’a gelecek.  

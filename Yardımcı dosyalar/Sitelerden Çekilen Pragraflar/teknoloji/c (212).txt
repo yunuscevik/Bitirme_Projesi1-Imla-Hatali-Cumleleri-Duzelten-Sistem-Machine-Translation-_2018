@@ -1,0 +1,8 @@
+﻿
+	Apple, yeni saati Watch'ta okumayı kolaylaştırmak üzere "San Francisco" adında yeni bir yazı tipi kullanmaya başlamıştı. Bu değişiklik, iOS 7'de ortaya çıkan Helvetica Neue'yi bir kenara bırakmak anlamına geliyordu. 
+
+	Apple'ın iOS'ta ve son zamanlarda OS X Yosemite'ta Helvetica Neue yazı tipini kullanması, bazı kullanıcılar tarafından eleştirilmekteydi. Ancak 9to5Mac'in iddiası doğruysa Apple, işletim sistemlerinin yeni sürümlerinde Helvetica Neue'yi kullanmayı bırakacak ve San Francisco yazı tipine geçecek. 9to5Mac'in isimlerini açıklamadığı kaynaklarına göre iOS 9 ve OS X 10.11, Helvetica Neue'nin yerine San Francisco'yu koyacak. Dahası iki işletim sisteminin şirket içindeki yeni yapılarının (Mart'tan itibaren) yeni yazı tipiyle geldiği ileri sürülüyor. 
+
+	İddiaya göre Apple, ön-yüklü gelen uygulamalarda yazı tipini en iyi biçimde kullanmaları için değişiklikler yapmış bulunuyor. Ancak kaynaklar, Apple'ın yazı tipi planlarını değiştirebileceğini veya iptal edebileceğini de söylüyor. Bu yüzden bu bilgilere şimdilik dikkatle yaklaşmakta fayda var. Yazı tipiyle ilgili detayları Apple'ın yaklaşık 2 hafta sonraki geliştirici etkinliği WWDC'de büyük ihtimalle öğrenebileceğiz. 
+
+	 Kaynak: Chip  

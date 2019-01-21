@@ -1,0 +1,9 @@
+﻿
+	Apple`ın sanal asistan uygulaması Siri yapmak istediğiniz şeyleri sadece sorarak yapmanıza yardımcı olan akıllı bir kişisel yardımcıdır. Mesaj göndermek, toplantı planlamak, telefon aramaları yapmak ve daha birçok işlem için sesinizi kullanmanıza olanak tanır. Fakat Siri’nin kullanıcılara güncel cevaplar vermek için sürekli kendisini güncellemek durumda. 
+
+	Özellikle kullanıcılarına hizmet verebilmek için tüm cihazlarında ve Safari'de kendi arama hizmetini sunmaya çalışan Apple geliştirmiş olduğu robotlarla aradıkları kaynakları indeksleyerek kendi kullanıcılarına sunuyor. Bu sayede Apple, Google ve diğer bot gönderen arama motorların uygulamalarını kullanmak zorunda kalmıyor. 
+	 
+	Daha önceki haberlerde belirttiğimiz gibi Google'a benzeyen bir arama motoru optimisazyonunu geliştirmeye çalışan dev firmanın artık diğer robot uygulamaları kullanmadığı kendi Apple botun aynı işlevi yaptığı ortaya çıktı. Bakalım ilerleyen zamanlar bize teknoloji devi Apple'ın kendi arama motorunu piyasaya sunmasını gösterecek mi? 
+	  
+
+	 Erol Sercan Yarali  

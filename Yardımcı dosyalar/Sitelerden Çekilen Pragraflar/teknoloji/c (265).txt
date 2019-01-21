@@ -1,0 +1,13 @@
+﻿ RADİKAL -  Gelişen teknolojiye rağmen kalıcı bir çözüm bulunamayan 
+                şarj 
+               sorununu ortadan kaldırmak için pek çok öneri mevcut. 
+Bunlardan en bilineni, hali hazırda çalışan uygulamaları anasayfa üzerinden kapatarak pil tasarrufu sağlamanın faydadan çok zarar sağladığını belirten uzmanlar, 
+                iPhone 
+              'larda pil tasarrufu sağlamanın en iyi yolunu açıkladı. 
+ FAYDADAN ÇOK ZARARI VAR  
+İnternette konuyla ilgili bir yazı yayınlayan, Christina Bonnigton, arka planda çalışan uygulamaları kapatmanın pil tasarrufu sağlamak yerine telefonunuzun daha çok 
+                enerji 
+               harcamasına sebep olduğunun altını çiziyor. 
+Bonnigton'a göre, bu işlem sırasında iPhone'lar arka plandaki uygulamaları önce yeniden çalıştırıyor ve bu da cihazın normalden fazla enerji harcamasına sebep oluyor. 
+iPhone'larda şarj tasarrufu sağlamak için oldukça basit bir yöntem bulunduğunu belirten Bonnigton'a göre, ayarlar kısmında bulunan 'Genel' seçeneğinin içinde bulunan ' Arkaplanda Uygulama Yenile'  seçeneğine tıklayarak kullanılmayan uygulamaları kapatmak kullancıların sorunlarına çözüm olabilir. 
+Bu işlem sayesinde telefonun normalden fazla enerji harcamayacağını belirten Bonnigton, bu yöntemle kapatılan uygulamaların iPhone'larda gözle görülür bir şarj tasarrufu sağladığının da altını çiziyor.  

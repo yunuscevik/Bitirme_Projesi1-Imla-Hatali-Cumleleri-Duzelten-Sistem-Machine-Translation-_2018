@@ -1,0 +1,12 @@
+﻿
+                Windows 
+               8, laptop'unuzun dokunmatik ekran yeteneklerini devre dışı bırakabilmeniz için herhangi bir ayar sunmuyor. Ancak küçük bir ipucu yardımıyla dokunmatik ekranı kapatıp, 
+                klasik 
+               fare ve 
+                klavye 
+               ikilisine geçiş yapabilirsiniz. 
+Dokunmatik ekranı devre dışı bırakmak için; 
+1. Charm menüsünü açın (Win+C), Ara düğmesine basın ve Aygıt Yöneticisi'ni arayıp çalıştırın. Arama sonuçlarında Aygıt Yöneticisi'ni göremezseniz, filtreyi "Ayarlar" ile değiştirin. 
+2. Açılan Aygıt Yöneticisi penceresinde "İnsan Arabirim Aygıtları" öğresini bulun ve genişletin. 
+  3. Açılan listede birkaç "HID uyumlu cihaz" göreceksiniz. Bunlardan bazılarında "dokunmatik ekran" ibaresi yer alıyor olacaktır. Bu aygıtlara tek tek sağ tıklayarak, ekranın dokunmatik özelliği gerçekten kapanana kadar devre dışı bırakmayı deneyin. 
+Dokunmatik işlevini geri getirmek isterseniz, devre dışı bıraktığınız bileşenlere sağ tıkayıp, "Etkinleştir"e tıklamanız yeterli.  

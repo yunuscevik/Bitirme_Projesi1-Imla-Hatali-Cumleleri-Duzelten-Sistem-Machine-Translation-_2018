@@ -1,0 +1,18 @@
+﻿
+	Kullanılmaya başlanıldığı günden itibaren büyük bir kullanıcı kitlesine ulaşan ve 10 gün içinde 1 milyon kullanıcıya ulaşan Periscope iPhone kullanıcılarından sonra artık Android kullanıcıları içinde sunulmaya başladı. 
+
+	Twitter’ın blog sayfasından yapılan açıklamada konuyla ilgili şunlar belirtildi: 'Periscope’u uygulamasını geliştirdiğimizde, ışınlanmaya en yakın olacak ürünü geliştirmek istemiştik . Kullanıcılara sunmuş olduğumuz canlı yayın video uygulamasını iyi bir şekilde geliştirerek sunduk. İlk lansmanını İOS’la gerçekleştirdiğimiz uygulama artık Android kullanıcıları tarafından da kullanılabilecek.’ 
+
+	Uygulamayı Androdid 4.4 (KitKat) ve üstü versiyonunu kullananlar Google Play’den indirebilir. 
+
+	 PERİSCOPE’UN SADECE ANDROİD İÇİN GELİŞTİRDİĞİ ÖZELLİKLER  
+	Uygulamaya,Android kullanıcılarının zorlanamayacağı modern tasarım geliştirildi 
+
+	Android kullanıcıları bildirim ayarlarını düzenleme imkanına sahip 
+
+	Periscope, Android kullanıcılarına özel olarak “Tekrar Başlat bildirimi” seçeneği geliştirildi. Bu özellikle birlikte yayın izlerken sizi biri aradığında veya size biri mesaj attığında kesilen yayını kaldığınız yerden izlemenizi imkan oluşturacak. 
+
+	Twitter’ın canlı yayın uygulaması olan Periscope yer ve zaman kavramını ortadan kaldırarak kullanıcılara canlı yayın yapmalarına imkan sağlıyor.  
+
+	 Erol Sercan Yarali  
+	  

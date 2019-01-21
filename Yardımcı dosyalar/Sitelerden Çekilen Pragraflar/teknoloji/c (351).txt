@@ -1,0 +1,9 @@
+﻿
+                Telefon 
+               bağımlılığı günümüzün en sık rastlanan sorunlarından biri; kimi 
+                zaman 
+               yürürken bile elimizden düşürmediğimiz akıllı telefonlarımızı kimi zaman da masaya bıraksak da sık sık kontrol etme ihtiyacı duyuyoruz. 
+Checky isimli bu uygulama ise sizi bu bağımlılığınızdan biraz olsun kurtarıp telefonunuzu ne sıklıkta kontrol ettiğinizi size bildiren bir uygulama. 
+ 
+Ücretsiz olan Checky uygulamasını bu bağlantıdan yükleyip   çalıştırdıktan sonra uygulama arka planda sürekli çalışarak telefonunuza gün içinde ne kadar baktığınızı sayıyor. Uygulamayı açarak da telefonu kontrol etme sayınızı görebiliyor ve ne kadar telefon bağımlısı olduğunuzu öğrenebiliyorsunuz. 
+Telefonunuz ile ne kadar ilgilendiğinizi gösteren Checky uygulaması da dahil olmak üzere hayatınızı kolaylaştıracak ve kullanıcı deneyiminizi artıracak her türlü uygulama incelemesi için Fobito  'yu takip etmeyi unutmayın!  

@@ -1,0 +1,6 @@
+﻿
+	Apple'ın tanıttığı yeni nesil mobil işletim sistemi iOS 9, iPad 2 ve iPhone 4S gibi eski cihazlarda da çalıştırılabilecek. Ancak bu durum yeni uygulamaların da bu tür eski cihazları destekleyeceği anlamına gelmiyor. Apple, iOS 9 ile birlikte üçüncü parti geliştiricilerin uygulamalarını kısıtlayabilmelerine olanak sağlayacak. Geliştiriciler, piyasaya sürecekleri uygulamaların sadece güçlü donanıma sahip cihazlarda çalışmasını sağlayacak şekilde kısıtlama yapabilecek. Buna göre yeni nesil uygulamalar için 64 bit işlemci zorunluluğu getirilebilecek. Bu politika değişikliğine göre bazı uygulamalar, A7 ve daha üzeri işlemciye sahip iPhone 5S, iPhone 6, iPad Air, iPad Air 2, iPad Mini 2 veya iPad Mini 3 model cihazlara yüklenebilecek. 
+
+	Daha düşük kapasiteye sahip eski cihazlar ise, App Store'da yüksek sistem gereksinimine ihtiyaç duyan uygulamaları göremeyecek. 
+
+	 Kaynak: Chip  

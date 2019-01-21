@@ -1,0 +1,8 @@
+﻿
+	Çevrimiçi fotoğraf paylaşım platformu instagram, mobil cihazlar için geliştirmiş olduğu Layout uygulamasını iOS’tan sonra Android kullanıcılarına da sundu. 
+
+	 İnstagram Layout nedir?  
+	Layout, Instagram tarafından geliştirilmiş özel bir fotoğraf kolajlama uygulamasıdır. Instagram'da paylaşabileceğiniz şekilde yerleşimler yapmanızı sağlayan bu uygulama ile en çok 9 ayrı fotoğrafı kolajlayabilir, yerlerini ve boyutlarını istediğiniz şekilde ayarlayabilirsiniz. 
+
+	Uygulamayı Appstore’dan ve Google Play’den indirip kullanabilirsiniz. 
+	  

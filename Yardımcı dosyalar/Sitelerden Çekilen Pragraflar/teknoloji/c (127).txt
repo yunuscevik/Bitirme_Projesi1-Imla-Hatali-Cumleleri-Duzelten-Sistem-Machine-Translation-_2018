@@ -1,0 +1,19 @@
+﻿
+
+  
+    
+      
+       
+     
+	  
+
+	“http://:” şeklinde gelen mesajların Skype uygulamasını önce dondurduğu ardından kullanıcıyı uygulamadan attığı görüldü. 
+
+	  
+
+	  
+
+	  
+
+	Skype’ta yaşanan bu sorun uygulamanın; Android , Windows, iOS ve hatta Mac OS sürümlerinde görülürken, dokunmaya duyarlı Windows sürümünde ise bu problem yaşanmadı.   
+ 

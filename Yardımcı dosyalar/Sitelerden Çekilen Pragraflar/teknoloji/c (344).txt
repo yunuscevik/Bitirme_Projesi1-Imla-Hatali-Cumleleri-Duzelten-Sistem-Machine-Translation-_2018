@@ -1,0 +1,8 @@
+﻿Microsoft, 29 Temmuz da yayınlayacağını duyurduğu yeni işletim sistemi 
+                Windows 
+               10 un minimum sistem gereksinimlerini de açıkladı. Açıklanan özellikler, Windows 10 u kullanabilmek için sahip olmanız gereken en düşük 
+                bilgisayar 
+               özelliklerini temsil ediyor. İlginç detay, Windows 10 için gereken bilgisayarın, Windows 7 için gereken bir bilgisayardan neredeyse hiç farklı olmaması. 
+Windows 10 u çalıştırmak için, en azından 1 gigahertz (GHz) hızında çalışan bir işlemciye sahip olmanız gerekiyor. 32-bit Windows 10 için 1 gigabayt (GB), 64-bit Windows 10 içinse 2 GB RAM e ihtiyaç duyulyor. 32-bit Windows 10 sabit diskte 16 GB yer kaplarken, 64-bit Windows 10, 20 GB alana kuruluyor. 
+DirectX 9 veya sonrasını destekleyen bir ekran kartı ile minimum 1024 x 600 ekran çözünürlüğünü destekleyen bir monitör, Windows 10 un istediği diğer özellikler. 
+Tabii ki bu özellikler, Windows 10 u  uçuracak  bir bilgisayara işaret etmiyor; sadece Windows 10 u çalıştırabilecek bir bilgisayarda en azından bu özelliklerin olması gerektiği anlamına geliyor. Bilgisayarınız ne kadar güçlü olursa, Windows 10 deneyiminizin de o kadar akıcı ve hızlı olacağını unutmamanızda yarar var.  

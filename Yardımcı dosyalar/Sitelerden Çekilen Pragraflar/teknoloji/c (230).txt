@@ -1,0 +1,6 @@
+﻿
+	Son yılların popüler platformu Android'e olan ilgi her geçen gün artarak devam ediyor. Son olarak düzenlenen bir organizasyonda çekilen kareler, Android ilgisini tekrar gözler önüne serdi. Çeşitli illerde bulunan Google Geliştirici Grupları’nın düzenlediği etkinliğe 5 binin üzerinde kişi katıldı. 
+
+	Android eğitimlerinden çeşitli yarışmalara kadar birçok etkinliğin olduğu Android Geliştirici Günleri'nde 24 saat süren ve hackathon adı verilen kodlama yarışmaları da yapıldı. Yine Google Geliştirici Grupları üyeleri tarafından geliştirilen Butterfly.tv isimli Android uygulaması üzerinden canlı yayınla takip edilebilen etkinliği dünyanın çeşitli ülkelerinden Android severler canlı yayınla takip etti. Ücretsiz hediyelerin dağıtıldığı etkinlikle İnsansız Hava Aracı "drone" uçurularak katılımcılara eğlenceli anlar yaşatıldı. 
+
+	Katılımın yoğunluğu sebebiyle yerlerde dahi oturan insanların olduğu etkinliğin fotoğraflarını gören yurt dışındaki Android severler, attıkları tweetler ile şaşkınlıklarını dile getirdi. ‘Android çıldırmış olmalı’, ‘Android evini Türkiye’ye taşınmış’ gibi tweetlerin de aralarında olduğu mesajlarda son zamanlarda meydana gelen sahne çökmelerine atıfta bulunan ‘Dikkat edin yeşil dev (Android) sahneyi çökertmesin’ mesajı geliştiricilere tebessüm eden anlar yaşattı.  

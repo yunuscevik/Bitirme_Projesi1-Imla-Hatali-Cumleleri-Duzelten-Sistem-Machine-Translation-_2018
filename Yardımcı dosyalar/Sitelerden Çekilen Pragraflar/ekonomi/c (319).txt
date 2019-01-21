@@ -1,0 +1,25 @@
+﻿
+
+  
+    
+      
+       
+     
+	Yelda Ataç'ın Bugün Gazetesi'ndeki haberine göre Bankalararası Kart Merkezi (BKM), banka  kartlarından alınacak komisyon oranının ortak belirlenmesi konusunda 5 yıl rekabet bildirimi muafiyeti aldı. Alınacak komisyona aralarında Visa ve MasterCard  logosu için ödenecek bedelin de bulunduğu bazı maliyet  artışlarının yansıtılmasına izin verildi. 
+
+	 KULLANIM ARTTI MASRAF GELDİ   
+
+	Bu kararla birlikte, daha önce kredi  kartlarındaki komisyonlarla bunaltılan vatandaşa, banka kartları aracılığıyla yeni masraf kalemleri de yüklenmiş oldu. Son dönemde kredi kartı  masrafından kaçan bir çok müşteri alışverişi banka kartlarından yapıyordu. Rekabet Kurulu ’nun yayınladığı gerekçeli karara göre, Bankalararası Kart Merkezi süresiz muafiyet  istediği komisyon rekabet bildirim muafiyetini 5 yıl süre için alabildi. BKM ’nin bazı maliyet kalemlerini komisyona yansıtmasına da izin verildi. 
+
+	 YENİ KALEMLER EKLENEBİLECEK   
+
+	Kartı çıkaran bankaya, alışveriş  tutarını aktaracak banka tarafından ödenecek komisyonu ifade eden oran, kullanım zinciri itibariyle banka kartı kullanıcısı ile kartla ödeme alan işyerlerine de yansıyabilecek. Ayrıca 5 yıllık muafiyet kapsamında bankalar yeni isimler altında başka masrafları da karta yansıtabilecek. 
+
+	 109 MİLYON BANKA KARTI VAR   
+
+	Bankalararası Kart Merkezi’nin 2015 yılı Nisan ayına ait kartlı ödeme sistemleri verilerine göre Türkiye ’de 109 milyon banka kartı ve 57,6 milyon kredi kartı bulunuyor. Banka kartı sayısında, 2014 yılı Nisan ayı ile kıyaslandığında yüzde  8 artış gerçekleşti. 
+
+	 İŞTE KARARA GÖRE YANSITILACAK MALİYETLER   
+                  Paging.create(2, 1);
+                   
+ 

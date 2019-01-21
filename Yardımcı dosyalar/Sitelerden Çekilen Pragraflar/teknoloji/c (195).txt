@@ -1,0 +1,10 @@
+﻿
+	Tanımadığımız ya da kişi listemizde yer alan numaralardan gelen rahatsız edici boyutlara ulaşmış SMS ve çağrılardan sıkılmış olabilirsiniz. Android’in kendi özelliği sayesinde, herhangi bir uygulama kurmanıza gerek kalmadan bu numaralardan gelen SMS ve çağrıları nasıl engelleyeceğimizi hemen anlatıyoruz. 
+
+	İlk olarak son çağrılar listesinden engellemek istediğimiz kişnin üzerine basılı tutuyoruz ve sağ üst kısımda yer alan üç noktalı butona basıyoruz. 
+	Açılan menüden Engelleme ayarları seçeneğine tıkladıktan sonra, yeni bir pencere açılacaktır. Bu pencereden ilgili numaradan gelen sesli arama, görüntülü arama ya da mesajlardan hangisini istemiyorsanız işaretliyoruz ve Tamam butonuna basıyoruz. 
+
+	Bu işlemden sonra artık o kişiden gelen SMS’leri ve çağrıları almayacaksınız. Karşıdaki kişi sizi aradığında telefon otomatik olarak meşgule düşecek ve bu kişinin size ulaşması, siz isteyene kadar imkansız olacak. 
+
+	Kaynak: Tamindir.com 
+	  

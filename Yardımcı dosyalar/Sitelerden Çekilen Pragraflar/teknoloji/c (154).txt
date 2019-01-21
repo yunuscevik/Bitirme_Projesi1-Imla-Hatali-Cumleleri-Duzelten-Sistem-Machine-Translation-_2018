@@ -1,0 +1,5 @@
+﻿
+	Dünyanın en çok kullanılan mobil cihazlardan biri olan iPhone’da şarj sorunu her kullanıcının rahatsız olduğu bir konu olarak ön plana çıkmakta. Günümüzdeki mobil cihazların birer bilgisayar görevi görmesi telefon şarjlarının kısa sürede bitmesine neden oluyor. 
+
+	Teknoloji yazarı Christina Bonnigton, konuyla ilgili olarak halk arasında bilinen yöntemlerin aslında yanlış olduğu belirtirken özellikle arka planda çalışan uygulamaları kapatmanın pil tasarrufu sağlamak yerine daha fazla pil harcadığını vurgulamakta. Bonnigton ayrıca yazısında, iPhone’larda pil ömrünü uzatmanın basit olduğunu bunun için ayarlar kısmında bulunan 'Genel' seçeneğinin içine girerek 'Arkaplanda Uygulama Yenile’ye' tıklayarak kullanılmayan uygulamaları kapatmanın kullanıcılara çözüm olabileceğini belirtmekte. Bu sayede şarj sorunu yaşayan iPhone’lar pil ömrünü birazda olsa uzatılabileceği belirtiliyor. 
+	  

@@ -1,0 +1,9 @@
+﻿Oyunun sahip olduğu 
+                    İstanbul 
+                   teması nedeniyle özellikle İstanbullulardan yoğun ilgi beklenen 
+                Metrobüs 
+              : Race in İstanbul eğlenceli bir hikayeye sahip. Aracın şoförü, araçta bir 
+                bomba 
+               olduğunu öğrenince rahatsızlanıyor. Metrobüsün direksiyonuna ise oyuncu geçiyor. Oyuncuların ise yapması gereken metrobüsün kontrolünü ele alarak metrobüsün hızını 50 km/h altına düşürmemek, trafikte sürüş hızını yüksekte tutmak ve bu esnada polise yolcuları kurtarması için yardım etmek. Bunu yaparken, hız kaybetmemek için yoldaki engellere dikkat edilmek gerekiyor.   
+3D grafiklere sahip Metrobüs Race in İstanbul oyununda; Boğaz Köprüsü, İstanbul ve 4 farklı metrobüs gibi lokal ögeler de bulunuyor. 
+  Oyun Android telefonlara ücretsiz olarak indirilebiliyor.  

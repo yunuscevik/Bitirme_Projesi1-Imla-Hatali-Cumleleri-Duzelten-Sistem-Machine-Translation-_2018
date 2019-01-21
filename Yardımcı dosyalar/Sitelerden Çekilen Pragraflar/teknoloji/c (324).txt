@@ -1,0 +1,9 @@
+﻿RADİKAL - Im2Calories isimli projeyi sona yaklaştıran 
+                Google 
+              , kendini geliştirip öğrenen bir 
+                yazılım 
+               sayesinde, dünyadaki tüm yemekleri tanıyarak kalorilerini hesaplayabilecek bir veri tabanı sistemi oluşturmuş olacak. Böylece 
+                Android 
+               kullanıcıları, bir restoranda otururken, telefonla önlerindeki tabağın fotoğrafını çektiklerinde, yaklaşık kaç kalori olduğunu öğrenebilecekler. 
+Tabi, bir yemeğin hangi yağla, hangi soslarla yapıldığını tahmin etmek kolay değil ve bir makarnayı domates sosuyla veya peynir sosuyla yemek ile kremalı sosla yemek arasında dağlar kadar kalori farkı olabilir. Google ın bu ince detayları nasıl ayırt edebileceği veya ayırt etmeyi başarıp başaramadığı şimdilik belli değil. 
+Yine de Google dan kısa süre içinde bu alanda bir ürün beklenmiyor ancak Google ın Im2Calories ismiyle patent başvurusu yapması, şirketin bu konudaki çalışmalarının ne kadar ciddi olduğunu ortaya çıkarıyor. Siz yine de, kalori saymaya başlamadan önce TV de Karatay Hoca yı görürseniz bir kulak kabartın. Ekmeği kesmek gerçekten işe yarayabiliyor. (Cumhuriyet)  

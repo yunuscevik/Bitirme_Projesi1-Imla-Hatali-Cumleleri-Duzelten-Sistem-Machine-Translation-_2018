@@ -1,0 +1,14 @@
+﻿Chrome ve Firefox'un 
+                popüler 
+               eklentilerinden Hola Better Internet, bulunduğunuz konumda sunulmayan 
+                internet 
+               hizmetlerini kullanmanıza izin veren bir tür VPN aracı. Ancak eklenti, arka planda haberiniz olmadan bant genişliğinizi satıyor ve kullanıcılarını botnet'e dönüştürüyor. 
+Sorunu anlayabilmek için Hola'nın nasıl çalıştığına yakından bakmak gerekiyor. Hola, bir eşten-eşe VPN hizmeti olduğundan, farklı bir konumda görünmek isteyen kullanıcılar, aslında bu konumdaki bir başka kullanıcı üzerinden yönlendiriliyorlar. Hola premium için ücret ödemeyen kullanıcılar ise diğer kullanıcılar için "çıkış noktası" haline geliyorlar. Tor'un aksine, ücretsiz sürümde çıkış noktası olmayı devre dışı bırakma şansınız da bulunmuyor. 
+Çıkış noktası olmaktaki sorun ise, sizin üzerinizden internete bağlanan bir kişinin yasadışı işler yapması halinde, sorumlu tutulabilecek olabilmeniz. Hola, trafiği şifreleme sözü vermediği için Tor ile aynı riski taşıyor (bu risk küçük bile olsa). Hola'yı kullanarak size bağlanan kullanıcıların çılgınca işler yapmayacağına güvenmiş oluyorsunuz. 
+Tüm bu sorunlar, sadece çıkış noktası olsaydınız kabul edilebilirdi ancak Hola'nın kullanıcılarının bant genişliklerini bir araya getirip, çıkış noktalarını Luminati adındaki bir hizmet yoluyla sattığı ortaya çıktı. Dolayısıyla isteyen herhangi biri, Hola kullanıcılarının bant genişliğini 
+                para 
+               karşılığında satın alabiliyor. 
+Hola'nın sıkça sorulan sorular sayfasında hizmetin eşten-eşe mantığıyla çalıştığından bahsediliyor, ancak ilginç biçimde merkezi denetimden, Luminati'den ve dolayısıyla internet bağlantınızın satıldığından hiç bahsedilmiyor. 
+Aslında bu durum Hola'nın ilk vukuatı değil. Hizmet daha önce kullanıcıların web tarayıcılarına "
+                reklam 
+               enjekte ederken" yakalanmıştı. Ücretsiz VPN hizmetlerinin reklam, kısıtlı bant genişliği gibi çeşitli dezavantajlarla geldiği doğru, ancak "para vermiyorsanız, ürün sizsiniz" sözü burada tam anlamıyla geçerli oluyor. Bu yüzden Hola'yı kullanmanızı önermiyoruz.  

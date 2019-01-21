@@ -1,0 +1,10 @@
+﻿
+	Chrome iyi bir web tarayıcısı, ama şimdilerde Microsoft Edge'i ile karşılaştırılmaya hazırlanıyor. Belki de bu yüzden Google Chrome’un motor kapağını açtı ve yıllardır düzeltmediği bir hatayı düzelteceğini açıkladı. 
+
+	Chrome’un kaynak tüketme sorunu ilk çıktığından beri var olan bir sıkıntıydı. Defalarca güncellenmesine rağmen PC ve akılı telefon platformunda Chrome’un çalışmıyor olsa dahi arka planda RAM ve CPU kaynaklarını meşgul ettiği gerçeği hiç değişmedi. 
+
+	Chrome’un kaynaklara sızdırma ve bunları bloke etme huyundan vazgeçmesine çalışılıyor. Google’ın resmi bloğunda yapılan açıklamaya göre açıldığı andan itibaren hızlı çalışmak adına kaynaklara yayılan Chrome’un daha farklı yöntemlerle hızlandırılması ve kararlı çalışması üzerine çalışılıyor. Bunun yanı sıra Chrome eklentilerinin RAM üzerinde ağırlık yaratması da önlenecek. Bildiğiniz gibi Chrome üzerinde ne kadar eklentiniz varsa bunların her biri ayrı program olarak Görev Yöneticisi ’inde sıralanıyor ve aşırı CPU ve RAM tüketebiliyorlar. 
+
+	Google I/O Konferansına kadar bu güncellemeyi yayınlamayı düşünüyor. Yetişmese de Chrome’un kaynak tüketiminin engellenmeye çalışılması bile başlı başına güzel bir haber.   
+
+	 Kaynak: tamindir.com  

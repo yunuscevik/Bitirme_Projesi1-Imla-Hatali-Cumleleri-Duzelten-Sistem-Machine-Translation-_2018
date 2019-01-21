@@ -1,0 +1,12 @@
+﻿Guangzhou kentindeki Sun Yat-sen Üniversitesi, 
+                bilim 
+               dünyasında aylardır spekülasyon olarak yer alan bir haberi doğrulayarak insan embriyosunun 
+                DNA 
+              'sını deşifre ettiklerini açıkladı. 
+                Protein 
+              &amp;Cell dergisinde yayımlanan araştırmaya göre, kullanılan yöntemin henüz sonuçları bilinmeyen birçok etkisi olabileceği belirtildi. Araştırmacılar, etik tartışmalara neden olmaması için birden fazla spermle döllenen ve yaşaması mümkün olmayan embriyolar üzerinde çalıştıklarını belirtti. CRISPR-Cas9 sistemine odaklanan araştırmalar sonucunda, genetik kökenli hastalıkların önüne geçebileceği düşünülüyor. Söz konusu sistemde hedef hücreye şifrelenmiş enzim ve RNA enjekte ediliyor, böylece spesifik bir DNA dizini kesiliyor. Ortaya çıkan hasar, kesilen DNA'ya benzeyen genetik bilgiyle onarılıyor. Eğer mühendislik ürünü DNA enzimle beraber enjekte edilirse, yapay DNA genoma entegre oluyor ve hasarı onarmak için kullanılabiliyor.  YAN ETKİLERİ BİLİNMİYOR Geliştirilen yöntemi &beta;-globin geni üzerinde deneyen araştırmacılar, yapay olarak üretilen DNA dizininin genom içinde belirlenen yere enjekte edilmesinde tatmin edici başarı sağlayamadı. İnsan geninde &beta;-globin geninin birçok versiyonu bulunması nedeniyle, hedefe enjekte edilemeyen yapay DNA'nın ciddi yan etkileri olabileceği belirtiliyor. Deneylerde, DNA enjekte edilen 86 embriyodan bazıları ölürken, geride kalan 54 embriyodan yarısında &beta;-globin genine 
+                müdahale 
+               edilebildi. Sonuç olarak, embriyoların sadece yüzde 14'ünde yapay DNA kullanılarak değişiklik yapılabildi. 
+TARTIŞMALAR KAPIDA  Çinli araştırmacıların Parkison ve Dawn sendromu gibi birçok hastalığı ortadan kaldırabileceğini öngördüğü araştırma, bilim dünyasının dikkatini üzerine topladı. Nature dergisinde geçtiğimiz ay yayımlanan makalede, embriyoların DNA mühendisliği için kullanılmaması gerektiği savunuldu. Henüz başlangıç aşamasında olan deneylerin gerçekte denenmesi halinde ne gibi yan etkileri olacağı ve dünyaya gelen çocuklarda yıllar sonra nasıl değişimler ortaya çıkarabileceği de bilinmiyor. Araştırmayı yorumlayan Harvard Tıp Okulu'ndan kök hücre biyoloğu George Daley, çalışmanın dönüm noktası olabileceği gibi uyarı niteliği taşıdığını söyledi. Daley, teknolojiyle genleri değiştirebileceği düşünen herkesin araştırmayı bir uyarı olarak algılaması gerektiğini ifade etti. (Al Jazeera Türk) 
+   
+   

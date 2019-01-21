@@ -1,0 +1,14 @@
+﻿iOS cihazlarınızdan silmiş olduğunuz uygulamarı geri yüklemenin çok kolay bir yolu olduğunu söyleseydik eminiz pek çok iOS kullanıcısı bu durumdan dolayı oldukça mutlu olurdu. Fobito'nun hazırladığı iOS cihazlardan sildiğiniz uygulamarı yeniden yüklemenizi kolaylaştıracak bu rehber ile büyük bir kolaylık elde edebilirsiniz. 
+iOS işletim sistemine sahip cihazlarınızdan silinen uygulamarı geri yüklemek için: 
+1.App Store a giriş yapın. 
+2.App Store da bulunan Purchased seçeneğini seçin. 
+3.Purcshased ekranında bulunan Not on This 
+                iPad 
+              /
+                iPhone 
+               seçeneğine dokunun. 
+4.Ekrana gelen listede cihazınızda yüklü olmayan tüm uygulamarı göreceksiniz. Listeden tekrar yüklemek istediklerinizi seçebilirsiniz. 
+Bu şekilde hem uzun 
+                zaman 
+               önce kullandığınız uygulamarı isimlerini hatırlayamasanız bile kolayca bulabilirsiniz. Ayrıca satın aldığınız uygulamarı yüklerken yeniden ödeme yapmanıza gerek yoktur. 
+Mobil ihtiyaçlarınızı karşılayacak her türlü ipucu için Fobito 'yu takip etmeyi unutmayın.  

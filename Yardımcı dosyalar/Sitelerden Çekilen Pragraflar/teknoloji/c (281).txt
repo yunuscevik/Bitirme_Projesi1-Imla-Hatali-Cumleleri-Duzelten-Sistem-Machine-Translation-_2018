@@ -1,0 +1,23 @@
+﻿Telefonunuzun performansını ve depolama alanını etkileyen en önemli unsurlardan biri ön bellekte tutulan dosyalardır (cache bilgisi) Bu dosyaları ya da verileri temizlemek, telefonunuzun depolama alanında yer açarak size kolaylık sağlayacağı gibi, telefonunuzun RAM inin işinize yaramayacak olan bilgileri hatırlamasını da engelleyerek performansını da artırır. 
+Fobito  'nun hazırladığı bu 
+                liste 
+               ile telefonunuzun ön belleğini temizlemede işinize en çok yarayacak olan uygulamaları bulabilirsiniz. 
+ CCleaner  
+Bilgisayarınızın da temizliğini en iyi şekilde üstlenen CCleaner, ücretsiz mobil uygulaması sayesinde artık telefonunuzun da hafıza alanını temizliyor ve lüzumsuz dosyalardan telefonunuzu kurtarıyor. 
+ App Cache Cleaner  
+Uygulamalarınızın ön belleklerini toplu olarak silebilme imkanı sunan App Cache Cleaner, size hem 
+                zaman 
+              , hem de daha fazla performans sunuyor. 
+ SD Maid  
+Telefonunuzda yer tutan gereksiz dosyaların temizleyebileceğiniz ve uygulamalarınızın ön belleklerini temizleyebildiğiniz SD Maid, telefonunuzun tozunu alarak performansını artırıyor. 
+ DU Speed Booster (Cleaner)  
+DU Speed Booster ücretsiz olarak kullanabileceğiniz bir 
+                Android 
+               hızlandırma uygulamasıdır. Cihazınızdaki uygulama ve oyunlara ait gereksiz yer kaplayan dosyaları silerek ve arkaplanda çalışan uygulamaları kapatarak optimize eder. 
+ AVG Cleaner  
+AVG nin Android uygulaması, cihazınızı temizleyerek hem gereksiz dosyaların yarattığı yer israfını ortadan kaldırıyor, hem de bataryanızın lüzumsuz harcanmasının önüne geçiyor. 
+ Cache Cleaner  
+Diğer uygulamalardan farklı olarak sadece önbellek temizlemek için geliştirilen Cache Cleaner telefonunuzdaki uygulamaların oluşturduğu kalıntıları ortadan kaldırır. 
+ Avast Cleanup  
+Avast'ın sadece gereksiz dosyaları silmek için geliştirdiği Avast Cleanup sayesinde önbellek ve çöp dosyaları silerek telefonunuzu hızlandırabilirsiniz. 
+Cep telefonunuzun performansını artıran bu uygulamalar gibi daha pek çok mobil uygulamaya ve eşsiz bir mobil kullanıcı deneyimi yaşamak için gerekli tüm ip uçlarına Fobito   aracılığı ile ulaşabilirsiniz.  

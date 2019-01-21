@@ -1,0 +1,6 @@
+﻿
+	Milyonlarca kullanıcısı bulunan WhatsApp geçtiğimiz günlerde mobil cihazlar için sesli arama özelliğini geliştirmişti. Yayınlandığı günden beri oldukça popüler olan bu özellik iddialara göre kullanıcıların cebini yakacak. 
+
+	AndroidPit’in hazırladığı rapora göre, WhatsApp üzerinden sesli arama yapan kişiler her dakika için ortalama 1.3 Mb internet kullanıyor. WhatsApp üzerinden yapılan aramaları 3G ve 4G bağlantısıyla gerçekleştiren kişilerin internet kotaları kısa sürede dolmakta bu da birçok kullanıcıyı rahatsız etmektedir. 
+
+	İleriki zamanlarda WhatsApp’daki bu durum kullanıcı kaybı oluşturacak mı hepimiz göreceğiz.  

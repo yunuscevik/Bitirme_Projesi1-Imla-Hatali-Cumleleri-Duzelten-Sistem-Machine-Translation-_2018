@@ -1,0 +1,32 @@
+﻿
+	Dünya genelinde 800 milyondan fazla kullanıcıya sahip olan WhatsApp, çevrimiçi mesajlaşma uygulamaları arasında üst sıralarda yer alıyor. WhatsApp’ın kullanımını daha elverişli bir konuma getirmek için bazı ipuçlarını sizlerle paylaşıyoruz: 
+
+	 WHATSAPP WEB  
+	 WhatsApp Web’e başlamak için önce telefonunuz ve bilgisayarınızı eşleştirmeniz gerekmektedir. 
+	Bilgisayarınızda web.whatsapp.com adresine gidin. 
+	Telefonunuzda WhatsApp’ı açın. 
+	Android, Nokia S60 ve Windows Telefonda: Menu &gt; WhatsApp Web'e gidin 
+	iPhone'da:Ayarlar &gt; WhatsApp Web'e gidin. 
+	BlackBerry'de: Sohbetler &gt; Menu &gt; WhatsApp Web'e gidin. 
+	BlackBerry 10'de: Ekranı yukarıdan aşağıya çekin &gt; WhatsApp Web'e gidin. 
+	Nokia S40'da: Ekranı aşağıdan yukarıya doğru çekin &gt; WhatsApp Web' e gidin. 
+	Telefondan gelen, bilgisayarınızın ekranındaki QR kodunu tarayın. 
+
+	Telefonunuzda, WhatsApp Web'e giderek Giriş yapılmış bilgisayarlar'ı görebilir veya aktif bir WhatsApp oturumundan çıkış yapabilirsiniz. 
+
+	 WHATSAPP ÜZERİNDEN TELEFON GÖRÜŞMESİ YAPMAK  
+	WhatsApp Araması ile, arkadaşınız başka bir ülkede olsa bile WhatsApp üzerinden onu ücretsiz arayabilirsiniz. Şu anda, WhatsApp Araması Android, iPhone ve Blackbery 10 için mümkündür. WhatsApp Araması, telefonunuzun konuşma paketindeki dakikalarınız yerine İnternet bağlantınız üzerinden çalışmaktadır. Operatörünüz tarafından veri ücreti uygulanabilir. 
+
+	 SİLİNEN MESAJLARI GERİ ALABİLMEK  
+	 Android  
+	WhatsApp her sabah otomatik olarak sohbetlerinizi yedekler. 
+	Geri yüklemeyi denemek için WhatsApp'ı silip yeniden yükleyin. 
+	Mesaj geçmişinizi yüklemeniz için sorulduğunda Geri Yükle'ye tıklayın. 
+	Silinen sohbetleriniz artık WhatsApp'ta görünecektir. 
+
+	 iPhone  
+	WhatsApp konuşma geçmişinizi saklamadığımızdan, ne yazık ki silinmiş sohbetlerinizi geri getiremiyoruz. WhatsApp'ın 2.10.1 ve üstü sürümlerinde, sohbet geçmişinizi yedekleyip geri yüklemek için iCloud yedekleme özelliğimizi kullanabilirsiniz. 
+
+	 WHATSAPP’IN ABONELİK ÜCRETİ NEDİR?  
+	Tüm telefonlar için, WhatsApp'ı indirmek ve bir yıl denemek ücretsizdir. Bu süreden sonra WhatsApp aboneliğiniz yılda $0.99 USD'dir. 
+	  

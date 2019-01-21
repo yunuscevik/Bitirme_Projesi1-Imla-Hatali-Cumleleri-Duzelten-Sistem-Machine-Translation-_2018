@@ -1,0 +1,5 @@
+﻿
+	Facebook sosyal medyada size uygun durum güncellemesini öneren bir özelliği test ediyor. Kullanıcıların çok sık kullanmadığı durum güncellemesini görünüşe göre Facebook daha aktif bir hale getirmek istiyor. 
+
+	Teste tabi tutulan kullanıcılar durum güncellemesi yaparken "Önerilen Gönderiler" seçeneği görüyor. Önerilen gönderiler, Facebook'ta yaptığınız eski paylaşımlara göre ya da sosyal medyada en çok konuşulan konulara göre size gönderiliyor. 
+	  

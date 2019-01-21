@@ -1,0 +1,486 @@
+﻿
+
+  
+    
+      
+       
+     
+
+ 
+  Normal
+  0
+  
+  
+  21
+  
+  
+  false
+  false
+  false
+  
+  TR
+  X-NONE
+  X-NONE
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Normal Tablo";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman ";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+
+ 
+
+	İşte dakika dakika Meclis 'teki yemin törenindeki bütün notlar... 
+
+	 00.32.  CHP Yalova  milletvekili Muharrem  İnce yemin etti. 
+
+	 
+
+	 00.30  HDP Eş Genel Başkanı Figen Yüksekdağ Meclis'te Van milletvekili olarak yemin etti. 
+
+	 
+
+	 00.23  Eski Merkez Bankası Başkanı ve MHP Uşak milletvekili Durmuş Yılmaz da yemin etti. 
+
+	 
+
+	 00.00  Abdullah Öcalan'ın yeğeni ve HDP Şanlıurfa Milletvekili Dilek Öcalan Meclis'te yemin etti! 
+
+	  
+
+	
+		
+		
+			
+				Haberin Videosu  
+			
+				    
+			
+				Dilek Öcalan Meclis´te yemin etti  
+		 
+	 
+ 
+startFlvPlayer_PostaV2("divFlvPlayer32328","32328","201506","32328-323184.jpg","1", "0","Dilek Öcalan Meclis'te yemin etti"); 
+	  
+
+	 
+
+	 23.54  HDP Şanlıurfa Milletvekili Osman Baydemir yemin etti! 
+
+	 
+
+	 23.25  MHP Genel Başkanı ve Osmaniye milletvekili Devlet Bahçeli TBMM'de yemin etti. 
+
+	  
+
+	
+		
+		
+			
+				Haberin Videosu  
+			
+				    
+			
+				Devlet Bahçeli yemin etti  
+		 
+	 
+ 
+startFlvPlayer_PostaV2("divFlvPlayer32327","32327","201506","32327-323169.jpg","1", "0","Devlet Bahçeli yemin etti"); 
+	  
+
+	 
+
+	 23.20  Başbakan Yardımcısı ve Ordu milletvekili Numan Kurtulmuş da yemin etti. 
+
+	 
+
+	 23.10 . Meclis'te Muğla milletvekilleri yemin ediyor... 
+
+	 22.58 . HDP Mersin  milletvekili Dengir Mir Mehmet Fırat  da yemin etti. 
+
+	 
+
+	 22.25  Başbakan Ahmet Davutoğlu Konya milletvekili olarak Meclis'te yemin etti! 
+
+	  
+
+	
+		
+		
+			
+				Haberin Videosu  
+			
+				    
+			
+				Ahmet Davutoğlu´nun Meclis´teki yemini  
+		 
+	 
+ 
+startFlvPlayer_PostaV2("divFlvPlayer32326","32326","201506","32326-323154.jpg","1", "0","Ahmet Davutoğlu'nun Meclis'teki yemini"); 
+	  
+
+	 
+
+	 22.16  Eski milli futbolcu Saffet Sancaklı MHP Kocali milletvekili olarak parlamentoda yemin etti. 
+
+	 
+
+	21.58 Daha önce Kayseri Belediye Başkanlığı yapan Mehmet Özhaseki AK Parti Kayseri milletvekili olarak Meclis'te yemin etti. 
+
+	 
+
+	 21.55  Verilen aranın ardından milletvekillerinin yemin etme töreni devam ediyor. Son olarak MHP Kayseri milletvekili Yusuf Halaçoğlu  yemin etti. 
+
+	 
+
+	 20.10  CHP'nin Roman milletvekili Özcan Purçu İzmir milletvekili sıfatıyla TBMM'de yemin etti. 
+
+	 
+
+	 20.07  CHP Genel Başkanı ve İzmir Milletvekili Kemal Kılıçdaroğlu yemin etti. 
+
+	  
+
+	
+		
+		
+			
+				Haberin Videosu  
+			
+				    
+			
+				Kemal Kılıçdaroğlu yemin etti  
+		 
+	 
+ 
+startFlvPlayer_PostaV2("divFlvPlayer32325","32325","201506","32325-323144.jpg","1", "0","Kemal Kılıçdaroğlu yemin etti"); 
+	  
+
+	 
+
+	 19.58  2 Temmuz 1993'te Sivas Katliamı'nda öldürülen Metin Altınok'un kızı Zeynep  Altınok İzmir Milletvekili sıfatıyla Meclis'te yemin etti. 
+
+	 
+
+	 19.2 5 Feminist hareketin aktivistlerinden Filiz Kerestecioğlu, HDP'nin İstanbul  milletvekili adayı olarak Meclis'e girmişti. Kerestecioğlu da yeminini etti. 
+
+	 19.00  Kürsüye gelerek yeminini eden ilk siyasi parti  lideri HDP Eş Genel Başkanı Selahattin Demirtaş  oldu. 
+
+	 
+
+	 18: 43  Cumhurbaşkanı Erdoğan'ın damadı Ak Parti İstanbul milletvekili Berat Albayrak  yemin etti . 
+	 
+	17:52  Ak Parti Erzurum  milletvekili Efkan Ala kürsüye gelirken protesto  edildi. Deniz Baykal , Efkan yemin metnini yanlış okuduğu için uyardı ve baştan okumasını istedi. 
+	  
+	17:42  HDP Diyarbakır  milletvekili Feleknas Uca yemin etti. Feleknas Uca yemin töreni öncesi, Deniz Baykal'ran ricada bulunmuştu. Kürtçenin yanı sıra İngilizce  ve Almanca bilen ancak Türkçesi iyi olmayan Uca, yemin metninin telaffuzunda sorun yaşayabileceğini bu nedenle Baykal'dan anlayışlı olması için ricada bulunmuştu.  
+	  
+	16:06  HDP Ankara  milletvekili Sırrı Süreyya Önder , yemin etti. 
+
+	  
+
+	
+		  
+		
+			
+				 Haberin Videosu   
+			
+				      
+			
+				 Sırrı Süreyya Önder yemin etti   
+		 
+	 
+ 
+startFlvPlayer_PostaV2("divFlvPlayer32296","32296","201506","32296-322776.jpg","1", "0","Sırrı Süreyya Önder yemin etti"); 
+	  
+	 
+	15:47  Cumhurbaşkanı Erdoğan Ankara milletvekili Yalçın Akdoğan  yemin etmeden önce ayrıldı. Erdoğan'ı yine Ak Partililer alkışladı. 
+	  
+	15:45  Ankara milletvekilerine geldi sıra. Baykal, Ankara milletvekili olan Mustafa Kemal Atatürk'ü  anmak için Meclis'i  1 dakikalık saygı duruşuna davet etti.  
+	 
+	15:30  HDP Ağrı  milletvekili Leyla Zana  yemin etti. Zana 22 yıl önce Kürtçe  yemin ettiği için kürsüden indirilmişti. 
+
+	  
+
+	
+		
+		
+			
+				Haberin Videosu  
+			
+				    
+			
+				Leyla Zana yemin etti  
+		 
+	 
+ 
+startFlvPlayer_PostaV2("divFlvPlayer32292","32292","201506","32292-322725.jpg","1", "0","Leyla Zana yemin etti"); 
+	  
+
+	 15: 20  Ak Parti Adana  milletvekili Talip Küçükcan'ın ismi okundu. Ancak Meclis'te olmadığı için kürsüye gelip yemin edemedi. 
+
+	 
+	  15:16   Alfabetik sıraya göre milletvekilleri yemin etmeye başladı. Adana milletvekili Meral Danış Beştaş yemin etti.  
+	 
+	15:14   Bennur Karaburun kürsüye davet edildi.   İlk yemini ayağından sakat olan Bursa  milletvekili Bennur Karaburun etti.  
+
+	  
+
+	  
+
+	
+		  
+		
+			
+				   Haberin Videosu   
+			
+				      
+			
+				   Meclis´te ilk jest Baykal´dan   
+		 
+	 
+ 
+startFlvPlayer_PostaV2("divFlvPlayer32294","32294","201506","32294-.jpg","1", "0","Meclis'te ilk jest Baykal'dan"); 
+	   
+	   
+	15:05   Bu dönem milletvekili seçilmeyen bakanlar da TBMM'de. Ali Babacan , Bülent Arınç , Faruk Çelik  de töreni izliyor. 
+
+	  
+
+	   
+	 
+	15:03:  Geçici başkan Deniz Baykal konuşuyor: 
+
+	 Geçici Başkanınız olarak eminim çok zorlu bir mücadelenin ardından milletvekili seçilerek milletin temsilcisi olma hakkını kazanan siz değerli üyeleri saygıyla selamlıyorum. Burada görev yapacak olan milletvekilleri, sadece  seçildikleri illerin üyesi oldukları siyasi partilerin değil, kendilerine oy vermiş olan ya da olmayan, bütün milletin temsilcileri olacaklardır. Burada görev yapacak bütün milletvekilleri, artık milli siyasi kimliğimizin ayrılmaz birer parçasıdır. Bu bilinç ve sorumluluk duygusu içerisinde yapacağınız çalışmalarda, hepinize başarılar diliyorum. 
+	Bu gün üyesi olmaktan onur duyduğumuz TBMM iki ay önce 95. Kuruluş yıldönümünü kutlamıştır. Dünyanın en eski en köklü parlamentolarından birisidir. Milli mücadeleyi gerçekleştirmiş, savaşlar isyanlar yaşamış bir Gazi Meclistir. Dünyanın pek çok yerinde millet meclislerini devletler kurmuştur. Bizde ise devleti de orduyu da Millet Meclisi kurmuştur. 
+	 
+	TBMM anayasayı yaptığı için değil, devleti kurduğu için Kurucu Meclistir. TBMM bu bir asra yaklaşan tarihi içinde misakı milli kapsamında egemen  bağımsız bir devlet kurmuş, cumhuriyet devrimlerini gerçekleştirmiş, tek partili rejimden çok partili rejime geçişi sağlamış, eğitim , hukuk, kadın erkek eşitliği, sanayileşme, ekonomik kalkınma alanlarında büyük ilerlemeler sağlamıştır. 1999 yılından beri dünyanın en büyük yirmi ekonomisinden biriyiz. Bu tablo, milletimizin ve onu temsil eden TBMM’nin iftihar tablosudur. Türkiye ’yi bu noktaya taşımakta kuşaklar boyunca hakkı ve emeği geçen, bütün insanlarımızı şükranla anmak manevi borcumuzdur. 
+	 
+
+	 Şimdi yeni bir meclis ile karşı karşıyayız. Birbirini anlamak birbirine saygı göstermek zorunda olan insanlardan oluşan bir Meclis. Ancak el ele verirlerse ayağa kalkabilecek olan ancak kol kola girerlerse ilerleyebilecek olan insanlardan oluşan bir Meclis. Milletimizin takdiri böyle oldu. Şimdi bunu işletmek zorundayız. 
+	 
+
+	 Uzun bir tek parti yönetimine dayanan iktidar döneminin acı tatlı deneyimleri sonucunda milletimizin kararı, uzlaşmak elbirliği işbirliği  yaparak yönetmek doğrultusunda olmuştur. Elbette uzlaşma temelinde hukuk olacaktır, ahlak olacaktır, yurtseverlik olacaktır. Elbette siyasi partilerimizin temel ilkeleri barış  içinde yaşamamızı imkansız kılmayacaktır. Demokrasi çeşitli güç merkezlerini kapsayan çoğulcu bir güç yapısının ortaya çıkışıyla ve herkesin birbirine ihtiyacı olduğunu kavramasıyla gerçekleşir. Demokrasi, kudret sahiplerinin lütfu değil mecburiyetidir. TBMM yeni bir demokrasi inşa etmenin çoğulcu alt yapı şartlarına sahiptir. 
+	 
+
+	 Geçmişte yaşanan gerginliklerin çatışmaların dayatmaların sonucunda ortaya çıkan kutuplaşmayı sürdürmenin şartları artık kalmamıştır. TBMM’nin bunu en iyi şekilde değerlendireceğine inanıyorum. Meclisin bu yapısını iktidar kullanmanın önünde bir engel gibi düşünmemeliyiz. Belki de tam tersine bu Meclis yapısı birbirimizi anlamanın birbirimize saygı göstermenin işbirliği yaparak katılımcı bir demokrasiyi hayata geçirmenin bir fırsatı olarak değerlendirilmelidir. Birbirinden farklı din  inanç ve mezhep kimliklerine farklı etnik kimliklere sahip olmamız, bizi tek ve ortak bir milli siyasi kimlikte birleşip bütünleşmekten alıkoymamıştır, bundan sonra da alıkoymayacaktır. 
+	 
+
+	 Din ve inanç özgürlüğü demokratik bir toplumda doğal olarak din ve inanç örgütlenmelerinin ortaya çıkmasına yol açmaktadır. Ama bu durum din ve inanç örgütlerinin sıcak siyaset  ve bürokrasi  alanlarında mevzilenmeleri sonucunu doğurmamalıdır. Türkiye de yaşanan acı olaylar ve çevremizdeki savaşlar çatışmalar bizi bir kere daha laikliğin önemini keşfetmek durumunda bırakmıştır. Aynı şekilde hukuku ve adaleti de siyaset dünyasının dışında tutma zorunluluğu bir başka temel noktamızdır. Birinci TBMM’nden başlayarak bugüne kadar bu kutsal çatı altında görev yapmış Başta Mustafa Kemal Atatürk olmak üzere bütün vatan evlatlarını saygıyla selamlıyor aramızdan ayrılmış olanlara Allah’tan rahmet diliyorum.  
+	 
+	  
+
+	  15:02:  İstiklal marşı okundu 
+	 15:00:  Yemin törenini Cumhurbaşkanı Erdoğan da izliyor. Erdoğan'ı Meclise girişi sırasında sadece Ak Partililer alkışladı. 
+	 
+
+	  
+
+	
+		
+		
+			
+				Haberin Videosu  
+			
+				    
+			
+				TBMM açıldı  
+		 
+	 
+ 
+startFlvPlayer_PostaV2("divFlvPlayer32289","32289","201506","32289-322687.jpg","1", "0","TBMM açıldı"); 
+	  
+
+	   
+	İşte milletvekillerinin edeceği yemin metni:  
+
+	"Devletin varlığı ve bağımsızlığını, vatanın ve milletin bölünmez bütünlüğünü, milletin kayıtsız ve şartsız egemenliğini koruyacağıma; hukukun üstünlüğüne, demokratik ve laik cumhuriyete ve Atatürk ilke ve inkılaplarına bağlı kalacağıma; toplumun huzur ve refahı, milli dayanışma ve adalet anlayışı içinde herkesin insan haklarından ve temel hürriyetlerden yararlanması ülküsünden ve Anayasa 'ya sadakatten ayrılmayacağıma; büyük Türk milleti önünde namusum ve şerefim üzerine ant içerim." 
+  
+ 

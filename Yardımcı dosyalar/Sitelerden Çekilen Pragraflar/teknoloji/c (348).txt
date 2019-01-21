@@ -1,0 +1,14 @@
+﻿Cryptolocker skandalından sonra 
+                internet 
+               kullanıcılarının yeni baş belası olabilecek yeni bir zararlı fidye yazılımı türedi. "Locker" ismindeki bu zararlı, şimdiden yüzlerce 
+                bilgisayar 
+               kullanıcısının canını yakmış durumda. 
+Ransomware olarak adlandırılan bu tür zararlı yazılımlar, bulaşmış oldukları bilgisayar üzerinde en sık kullanılan dosyaları şifreleyerek kullanılamaz hale getiriyor. Dosyalara erişmek isteyen kullanıcı, PC ekranında dosyalarının şifrelendiğini ve tekrar kullanıma açılabilmesi için bir miktar "fidye" ödenmesi gerektiğini anlatan bir mesajla karşılaşıyor. 
+Tüm bunlarla birlikte kaos ortamı yaratmak isteyen "fidye" yazılımı, ekrana bir de geri sayım sayacı yerleştirerek kullanıcının paniklemesini ve 
+                para 
+               ödemeye ikna olmasını sağamaya çalışıyor. "Locker" tehlikesi 25 Mayıs tarihiyle birlikte yayılmaya başlamış ve şu ana kadar birçok internet kullanıcısını etkilemiş durumda. 
+Zararlı yazılımın bilgisayarlara nasıl sızdığı şu ana kadar tam olarak çözülmüş değil. Bu amaç için Windows servislerinin kullanıldığı tahmin ediliyor. Sisteme bulaşan bu zararlı 
+                yazılım 
+               C:/ dizinindeki "Shadow Copies" servisini kullanılmaz hale getirerek dosyaların geri getirme seçeneğini engelliyor. Locker, sisteme bulaştıktan sonra dosya uzantılarında herhangi bir değişiklik yapmadan 2048-bit RSA şifreleme yöntemi kullanarak şifrelemeye başlıyor. Bu zararlı yazılım .doc, .docx, .xlsx, .ppt, .wmdb, .ai, .jpg, .psd, .nef, .odf, .raw, .pem, .rtf, .raf, .dbf, .header, .wmdb, .odb, ve .dbf uzantılarına sahip dosya türlerini şifreliyor. 
+Son aşama olarak sızılan bilgisayar ekranında özet olarak hiçbir çabanın dosyaları geri getiremeyeceği ve gerekli anahtarların kendi ellerinde olduğunu anlatan bir uyarı mesajı görüntüleniyor. Locker 72 saat içersinde şifreleri çözmek için 0.1 Bitcoin (yani 23 dolar) gibi bir ücret talep ediyor. 
+Fidye tuzağına düşen yüzlerce kullanıcı problemlerini çözebilmek adına forumlara akın edip, online platformları soru yağmuruna tuttu. Kullanıcıların kaçının bu zararlı yazılıma para ödediği ise henüz bilinmiyor. Bu tür sıkıntılarla karşılaşmamak için önemli verilerinizi sadece bilgisayarınızda saklamak yerine düzenli olarak kullanmış olduğunuz depolama birimlerine yedekleme yapmanız öneriliyor.  

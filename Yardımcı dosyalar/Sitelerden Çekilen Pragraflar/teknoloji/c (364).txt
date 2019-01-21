@@ -1,0 +1,20 @@
+﻿James Bond, Sherlock Holmes, Görevimiz Tehlike&hellip; Polisiye macera filmlerinde gördüğümüz; kendini silen mesajlardan takip etmek istediğiniz cihazın ne 
+                zaman 
+               nerede olduğunu öğrenmenizi sağlayan uygulamalara kadar pek çok casus ya da takip uygulamasını bu listede bulabilir; isterseniz kendi telefonunuz kaybolduğunda onu bulmanızı kolaylaştırabilir, isterseniz de merak ettiğiniz kişinin telefonu hakkında bilgi sahibi olabilirsiniz. 
+İşte Fobito  'nun hazırladığı liste ile iOS cihazlarınızda kullanabileceğiniz en iyi casus uygulamaları: 
+ Cyber Dust  - Mesajlarınızın telefonunuz hacklendiği ya da kaybolduğu takdirde güvende olması ve istemediğiniz mesajların saklanmamasını sağlayan bu uygulama hem sizin, hem de mesajlaştığınız kişinin telefonundan okunduktan sonra mesajlarınızı silen bir uygulama.  
+ TrackView  - Uygulamayı telefonunuza yükledikten sonra bu uygulamaya eklediğiniz cihazların bulunduğu konumları görebiliyor, istediğiniz cihazları takip edebiliyorsunuz. 
+ Casus Kulak  - Bir dinleme cihazı olarak telefonunuzu kullanabildiğiniz bu uygulamayı kullanmak için telefonunuzu dinlemek istediğiniz odaya bırakıyor ve bluetooth kulaklığınız aracılığı ile odada geçen konuşmaları duyabiliyorsunuz. 
+ Spy Pix  - Spy Pix iki adet 
+                fotoğraf 
+               kullanarak tuzak resimler oluşturmanızı sağlayan bir uygulamadır. Herkes tarafından görünmemesi gereken bir 
+                resmi 
+               başka bir resimle kamufle edebilir, oluşturduğunuz tuzak resimleri arkadaşlarınıza gönderebilirsiniz. 
+ Spy Gizmos  - Bu uygulama sayesinde şifreli mesajlar gönderebiliyorsunuz. Dİlerseniz gönderdiğiniz mesajları farklı kodlarla şifreleyebildiğiniz Spy Gizmos ile kendi sesinizi mors alfabesine çevirebilir ya da fotoğraflarınızı şifreleyip herkesin görmesini istemediğiniz fotoğrafları bu şekilde gönderebilirsiniz. 
+ Encryptor  - Metin mesajlarınızı şifrelemenizi sağlayan bu uygulama ile dilediğiniz gibi kamufle edilmiş mesajlar gönderebiliyorsunuz. 
+ Call Recorder  - Telefonunuz ile yaptığınız görüşmelerinizi otomatik olarak kaydetmeye yarayan bu uygulama ile hatırlamadığınız konuşmalarınızı da dinleyebiliyorsunuz. 
+ Voice Recorder  - Voice Recorder da son 
+                derece 
+               kullanışlı olan bir başka ses kaydı uygulaması. 
+ ReconBot  - Ücretli bir uygulama olan ReconBot ile IOS cihazınızı gizli kamera olarak kullanabiliyorsunuz. 
+ Foxygram  - Foxygram ile kendi kendini imha eden mesajlar gönderebilir, bir güvenli kodu oluşturarak resim,video ve kişilerinizi koruma altına alabilirsiniz.  

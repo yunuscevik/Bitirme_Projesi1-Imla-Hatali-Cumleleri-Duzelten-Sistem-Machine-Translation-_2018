@@ -1,0 +1,7 @@
+﻿ RADİKAL-  Siber korsanlar kullanıcılara kabus yaşatmaya devam ediyor. Siber 
+                güvenlik 
+               uzmanları, iPhone ve iPad kullanıcılarının iCloud şifrelerini çalınmasına imkan sağlayan yeni bir güvenlik açığı saptandığını duyurdu. NTV'de yer alan habere göre, akıllı cihazlarında 3'üncü 
+                parti 
+               uygulamalar yerine Apple'ın standart e-posta aplikasyonunu kullanan kişilerin saldırıya açık olduğunu belirten uzmanlar, bir bug sayesinde kullanıcıların bu uygulamaya girdiği iCloud şifresinin hacker'ların eline geçtiğini 
+                iddia 
+               ediyor.  

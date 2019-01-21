@@ -1,0 +1,8 @@
+﻿Google'ın 2012'de Motorola satın almasıyla birlikte kontrolüne aldığı ATAP (Gelişmiş 
+                Teknoloji 
+               ve Ürünler grubu), Google I/O etkinliğinde yepyeni projelerini sergiledi. Bu projelerin gerçeğe dönüşüp dönüşmeyeceği belli olmasa da, bizce gözden geçirmeye değecek kadar ilginçler. 
+Project Soli: Apple Watch'un dijital tacına benzeyen Soli, parmaklarınızın hareketlerini en ince detaylarıyla algılayabiliyor. Bu şekilde kaydırma çubuklarını, düğmeleri saatin ekranına dokunmadan kontrol edebiliyorsunuz.  Project Jacquard: Jacquard sayesinde giysilere dokunmatik bir yüzey eklemek mümkün hale geliyor. Google ile birlikte çalışan Levi's, etkileşimli giyim eşyaları üretmek üzere çalışmaktalar. Project Vault: Google, güvenliğe adanmış bir bilgisayarı bir microSD kartın içerisine sığdırmayı başardı. Telefonlara, tabletlere, masaüstü PC'lere ve IoT cihazlarına bağlanabilen kart, veri şifreleme ve uçtan-uca 
+                iletişim 
+               işlevleri sunuyor. Projeyi en değerli verilerinizi saklamakta kullanacağınız bir kasa gibi düşünebilirsiniz.  Çok modlu biyometrikler: ATAP, kullanıcının sesinin, yazma şeklinin, yüz özelliklerinin ve konumunun detaylarını algılayan bir sistemle parolaları ortadan kaldırmayı planlıyor. Tüm bunlardan elde edilen veriler bir "güven puanına" dönüştürülüyor. Örneğin bir 
+                banka 
+               uygulaması, çok yüksek puan gerektireceğinden, kullanıcı girişine ihtiyaç duyabiliyor.  Project Ara: Google, modüler telefon projesinden pek bahsetmese de, kamera modülü takıldığında onu algılayan bir prototipi gösterdi. Böylece cihazın kamerası ilk kez çalışır halde görüntülenmiş oldu.  

@@ -1,0 +1,9 @@
+﻿iOS 9 ile birlikte mobil dünyanın geleceğini şekillendirecek gibi görünen 
+                Apple 
+              , bu kez de "dokunma tahmini" teknolojisiyle karşımıza çıkacak. 
+Yeni nesil mobil işletim sistemi iOS 9 ile birlikte sunulması beklenen "touch prediction" özelliği ile birlikte 
+                iPhone 
+               veya 
+                iPad 
+               kullanıcılarının bir hamle sonra ekranın hangi alanına dokunacakları tahmin edilebilecek. Bu sayede Apple'ın teknolojik cihazlarının daha hızlı işlem yapabilmesi hedefleniyor. 
+Kullanıcı davranışına göre şekilleneceği tahmin edilen bu dokunma öngörüsü, milisaniyelik de olsa bir hız artışı sağlayabilecek. Dokunmatik ekranın yanıt verme süresini azaltmak için geliştirilmiş "touch prediction" teknolojisinin tam olarak nasıl çalışacağı ise henüz bilinmiyor.  

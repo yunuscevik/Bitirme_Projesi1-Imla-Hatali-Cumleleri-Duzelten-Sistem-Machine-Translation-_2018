@@ -1,0 +1,5 @@
+﻿iPhone'ların ardından bu kez de Skype uygulamasını çökerten bir mesaj keşfedildi. "http://:" şeklinde gelen mesajların Skype uygulamasını önce dondurduğu; ardından kullanıcıyı uygulamadan attığı görüldü. 
+Skype'ta yaşanan bu sorun uygulamanın Android, Windows, iOS ve hatta Mac OS sürümlerinde görülürken, dokunmaya duyarlı Windows sürümünde ise bu problem yaşanmadı. 
+ KURTULMAK ÇOK GÜÇ   Skype'ta bu tür bir mesaj alındığında uygulama çöktüğünde sorundan kurtulmak oldukça zor; zira Skype'yı kapatıp yeniden açsanız bile geçmiş sohbet kayıtları doğrudan yeniden yükleneceğinden, mesajı silseniz bile sorun devam ediyor ve silinen o hatalı mesaj geri dönüyor. 
+Skype'tan konuyla ilgili henüz bir açıklama yapılmadı. 
+ iPHONE'LARI DA ÇÖKERTMİŞTİ   iPhone'larda bulunan bir açık yüzünden de içinde Arapça harflerin bulunduğu bir dizi harf iPhone'ların donmasına neden oluyordu. Apple daha sonra yeni bir güncelleme yayınlayacağını ve sorunu yaşayanların bu problemden kurtulacağını açıklamıştı.  

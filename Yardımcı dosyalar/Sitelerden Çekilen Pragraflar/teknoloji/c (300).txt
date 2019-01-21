@@ -1,0 +1,12 @@
+﻿Google, 
+                internet 
+               kullanıcıları için sunmuş olduğu Street View hizmetiyle ilgili yeni bir uygulamayı hayata geçirmek için çalışmalara başladı. 
+Önümüzdeki 
+                Ağustos 
+               ayı ortalarında hayata geçmesi planlanan uygulama ile birlikte Street View, 360 
+                derece 
+               kamera desteğine sahip olacak. Yaklaşık iki yıl önce Google tarafından kullanıma sunulan "Views" uygulaması ile kullanıcılar Photo Sphere kamera modunu kullanarak çektikleri 360 derecelik 
+                fotoğraf 
+               kürelerini paylaşabiliyordu. 
+Yeni hizmetle birlikte Views, Google Haritalar'ın (Google Maps) bir parçası olacak. Bu sayede dileyen herkes Photo Sphere ile çekilmiş panoramik fotoğrafları Maps üzerine yükleyebilecek. Böylece Google, Street View uygulaması ile kullanıcılara tek karelik fotoğrafların haricinde, geniş açılı panoramik resimler sunarak farklı bir deneyim yaşatacak. 
+Hizmete sunulması beklenen yeni uygulama ile birlikte NCTech iris360 ve Giroptic 360cam gibi 360 derece çekim yapabilen kameralarla yakalanmış fotoğraf küreleri sistem üzerine doğrudan yüklenebilecek.  

@@ -1,0 +1,6 @@
+﻿
+	‘Hemşeri Bul’ isimli uygulama Facebook veritabanını kullanarak hemşerilerinizi bulmayı amaçlıyorAndroid Geliştirici Günleri’nin 11-12 Mayıs’ta Ankara’da düzenlemesi öncesinde Android platformlar için geliştirilen uygulamalar hız kesmeden devam ediyor. Bu uygulamalardan bir tanesi hemşerilerini arayanları sevindirecek türden. 
+
+	Android 2.3 ve yukarısı işletim sistemlerine sahip cihazlar tarafından ücretsiz ve herhangi bir izin gerekmeden indirilebilen uygulamada Memleketinizi ve hemşerilerinizi bulmak istediğiniz şehri seçtikten sonra ‘Hemşerilerimi Bul’ butonuna tıklayarak Facebook üzerinde kayıtlı olan hemşerileri bulabiliyorsunuz. 1.7 megabayt büyüklüğündeki program Google Play üzerinden indirilebiliyor. 
+	Uygulama henüz test aşamasında olan Facebook servisi search.fb.com altyapısını kullanmasından ötürü Facebook üzerinde oturum açmadan kullanmanız durumunda sizi Facebook Search anasayfasına yönlendiriyor. Fakat Facebook oturumu açmanız durumunda sorunsuz olarak uygulama kullanılabiliyor. 
+	Uygulamada Türkiye Cumhuriyeti sınırları içerisindeki şehirlerin yanında Tokyo ,Moskova, Seul ,Jakarta,Tahran, Mexico City ,Bangkok,Londra,Kahire,Bağdat,Hong Kong , Singapur ,Berlin ,Madrid , Buenos Aires gibi bir çok şehirde yaşayan hemşeriler de bulunabiliyor.  

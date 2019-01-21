@@ -1,0 +1,9 @@
+﻿
+	Siber saldırı neticesinde kamu kurumlarının yollamış olduğu e-postalara, ulaştığı posta hesaplarında spam klasöründe birikiyor. 
+
+	Türkiye'de devlet kurumlarına tahsis edilen 'gov' uzantılı internet siteleri ve e-mail hesaplarına 12 farklı ülkeden saldırı başladı. Görünüş itibarı ile tüm saldırının Güney Kore üzerinden gerçekleştiği iddia edilse de, bunun sadece IP numarasının değişmesinden kaynaklanan bir durum olduğu bildirildi. Avrupa ve Asya kıtalarında bulunan 12 farklı ülkeden gov uzantılı mail adresine yapılan siber saldırı sunucu şirketler güvenlik tedbirlerini artırdı. 
+
+	Öte yandan, 3 gündür süren saldırının dün akşam kesildiği ve bugün tekrar başladığı bildirilirken, saldırı sonucu 'gov' uzantılı kamu kurumlarından atılan e-maillerin, alıcı mail kutularında gereksiz mailler olarak bilinen 'spam' klasöründe biriktiği kaydedildi. 
+
+	BAHADIR DEMİRÇEVİREN 
+	BALIKESİR 

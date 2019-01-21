@@ -1,0 +1,9 @@
+﻿
+                Apple 
+              'ın WWDC konferansında geliştiricilere açtığı watchOS 2 işletim sistemi üzerine çeşitli denemeler yapılıyordu. Hamza Sood adında bir geliştirici Apple'ın akıllı saatini hackleyerek üzerinde fenomen 
+                oyun 
+               
+                Flappy Bird 
+              'ün bir klonunu çalıştırmayı başardı. 
+Yayınlanan videoya bakıldığında Flappy Bird'ün küçük ekranda da rahatlıkla oynanabileceği görüldü. Dokunmatik ekran ve "Digital Crown" ile kontrolü sağlanabilen oyun Apple Watch için ileride gelebilecek yeniliklerin ilk sinyalini vermiş oldu. 
+Geçtiğimiz hafta da Steven Troughton-Smith, Adam Bell ve Jay Freeman isimli geliştiriciler UIKit ve SceneKit kullanarak "Canabalt" adlı oyunu Apple Watch üzerine yükleyip oynayabilmişlerdi.  

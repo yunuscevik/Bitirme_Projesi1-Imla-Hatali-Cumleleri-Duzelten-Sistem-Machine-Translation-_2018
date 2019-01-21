@@ -1,0 +1,14 @@
+﻿Haritalama uygulamaları, A noktasından B noktasına gitmeyi daha kolay bir hale getiriyorlar ancak, eğer B noktası 
+                gece 
+               için kapandıysa bu durumun pek bir faydası olmuyor. 
+Bu düşünce de, sonunda, 
+                Google 
+              'dan birinin aklına gelmiş olacak ki, Google Maps artık kullanıcılara, gitmekte oldukları yer, vardıkları 
+                zaman 
+               kapalı olacaksa uyarıyor. 
+Artık kullanıcılar, gidecekleri yerin adresini uygulamaya girdikleri zaman bir uyarı görecekler: "Hedefiniz, siz vardığınız zaman kapanmış olabilir." Bu uyarı, yerin normalde açık olduğu saatleri gösterecek. Eğer gitmeye devam edecekseniz de, tahmini 
+                ulaşım 
+               zamanı belirtiliyor. 
+Google Maps kullanan ve bir yerlere kapanmadan önce ulaşmak isteyen kişiler için bu küçük uygulamanın avantajları oldukça kolay bir şekilde gözükebiliyor. 
+Daha önceden de Google Maps'e kayıtlı olan bir mağazanın çalışma saatlerini bulmak çok zor değildi. Ancak bu yerlerin çalışma saatleri, uygulamanın birkaç katman derinindeydi ve bu saatlere ulaşmak için bir yeri aradıktan sonra birkaç tıklama daha yapmanız gerekebiliyordu. 
+Sabırsız veya yolda olan kullanıcılar için, bu fazladan birkaç tıklama işleminin önemi oldukça büyük olabiliyor.  

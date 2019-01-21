@@ -1,0 +1,22 @@
+﻿
+	Dünyanın en çok kullanılan çevrimiçi mesajlaşma ağı Whatsapp için Whatsdog uygulaması geliştirildi. Whatsdog uygulamasının birçok çift arasında sıkıntıya sebep vermesi bekleniyor. 
+
+	 Whatsdog uygulaması nedir?   
+	WhatsDog sevdiğiniz veya takip etmek istediğiniz bir kişinin tüm Whatsapp haraketlerini yani çevirimiçi olup olmadığını ve ne kadar çevrimiçi kaldığını takip etmenizi sağlayan bir uygulamadır. 
+	Bu uygulama takip ettiğiniz kişinin bilgilerini sesli ve titreşim uyarısıyla kullanıcılara anlık ileti olarak sunmaktadır. Fakat başka kişi tarafından engellenmiş kullanıcıların o kişiyi takip etme gibi bir olasılığı bulunmuyor. Bu uygulama şimdilik sadece Android kullanıcıları için sunulmuştur. 
+	iPhone gibi mobil başka bir sürümünü kullananların ise endişelenmesine hiç gerek yok. 
+
+	 Whatsdog uygulaması nasıl indirilir?   
+	Google play üzerinden ücretsiz olarak indirilen bu uygulamanın reklam sorununu çözebilmek için ise 10 TL gibi bir rakam ödemek gerekiyor. 
+
+	 
+
+	 Whatsapp 'Gizlilik Ayarlarımı' nasıl düzenlerim?  
+
+	WhatsApp, gizlilik ayarlarınızdaki Okundu bilgisi, son görülme, profil fotoğrafı ve durumunuzu otomatik olarak tüm WhatsApp kullanıcıları tarafından görülecek şekilde ayarlar. Eğer son görülmenizi paylaşmazsanız, diğer kullanıcıların son görülmelerini de göremezsiniz.Çevrimiçi durumunuzu gizlemeniz mümkün değildir. 
+
+	Bu ayarları değiştimek için  WhatsApp &gt; Menü Tuşu &gt; Ayarlar &gt; Hesap &gt; Gizlilik 'e gitmeniz yeterlidir. 
+	Son görülme, profil fotoğrafı ve/veya durumunuzu ayrı olarak ayarlamanız mümkündür. 
+
+	 Erol Sercan Yarali  
+	  

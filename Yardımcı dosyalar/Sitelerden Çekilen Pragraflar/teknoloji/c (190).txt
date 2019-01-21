@@ -1,0 +1,5 @@
+﻿
+	Teknoloji devi Google, San Francisco kentinde organize edilen Google I/O 2015 etkinliğinde Youtube ve Google Maps’in çevrimdışı kullanılabileceğini açıkladı. Youtube’un çevrimdışı kullanılması için kullanıcının ilk başta internete bağlıyken videoyu seyretmesi gerekiyor, sonra kullanıcı aynı videoyu 2 gün boyunca internete bağlı olmadan çevrimdışı seyredebilecek. Google Maps’te de kullanıcılar internete bağlıyken Google Maps'te yaptıkları bir aramayı 2 gün boyunca internet olmadan da yapabilecek ve aktif olarak haritayı kullanabilecek. 
+
+	Google uygulamanın yıl sonunda kullanılmaya başlayacağını belirtti. 
+	  

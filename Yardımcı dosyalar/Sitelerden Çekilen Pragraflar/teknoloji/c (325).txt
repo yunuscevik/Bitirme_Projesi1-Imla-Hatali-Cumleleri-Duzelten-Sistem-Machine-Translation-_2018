@@ -1,0 +1,15 @@
+﻿Başkent Üniversitesi Mühendislik Fakültesi Dekanı Prof. Dr. Berna Dengiz, AA muhabirine yaptığı açıklamada, teknolojinin gelişmesiyle bazı ülkelerin oy verme işlemini elektronik ortamda yapmaya başladıklarını hatırlattı. 
+
+                Bilgisayar 
+               Mühendisliği Bölümü öğrencisi Cankat'ın, bitirme projesinde danışmanı Öğretim Görevlisi Dr. Mehmet Dikmen'in desteğiyle güvenli bir oy kullanma sistemi tasarladığını belirten Dengiz, bu sistemin gümrüklerde pasaport kontrollerindeki parmak izi sistemlerine benzetilebileceğini söyledi. 
+Sistemde, parmak izinin bir okuyucu tarafından alındığını ve seçmenin belirlediği 6 haneli bir PIN numarası ile şifrelenerek sistemin veri tabanında saklandığını kaydeden Dengiz, "Böylece seçmenlerin parmak izi, 
+                güvenlik 
+               kontrolü için kullanılmış oluyor. Oy verme yaşına gelmiş seçmenlerin parmak izi güvenlik kontrolü olarak kullanılabiliyor. Böylece bir sonraki seçimde aynı seçmen, bir kez daha oy kullandığında güvenliği test edilmiş olacak" dedi. 
+Mükerrer ve geçersiz oyların önüne geçilecek 
+Sistem sayesinde mükerrer ve geçersiz oy kullanımının önüne geçilebileceğine işaret eden Dengiz, "Burada parmak izi teknolojisi, oy verme sistemi oluşturmak için kullanıldı. Hem şifreleme hem parmak izi bir arada. Siz kendi izinizi şifreliyorsunuz. Bu artık seçmeni tanıtan bir kimlik bilgisi" diye konuştu. 
+Dengiz, sistemle seçmenin, parmak izinin alınmasının ardından tüm 
+                parti 
+               isim ve logolarının yer aldığı pusulalardan oyunu tıklayacağını belirterek, "Bu işlemin ardından seçmenin verilen oyla bağlantısını koparacak bir güvenlik duvarı çıkacak. Böylece seçmenin hem geçerli oy kullanması sağlanacak hem de hangi partiye oy verdiği ortaya çıkarılamayacak" dedi. 
+Prof. Dr. Berna Dengiz, oy verme süreci tamamlandığında sonuçların, tasarlanan 
+                internet 
+               sitesi üzerinden herkesin görebileceği şekilde yayımlanacağını sözlerine ekledi.  

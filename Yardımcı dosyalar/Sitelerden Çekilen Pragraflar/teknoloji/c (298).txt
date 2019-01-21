@@ -1,0 +1,29 @@
+﻿ Telefonunuz için veri kurtarma uygulamalar  
+Öncelikle telefonunuzun 
+                Android 
+               işletim sistemine sahip olması gerekiyor. Eğer Android işletim sistemine sahip bir 
+                telefon 
+               kullanıyorsanız bilgisayarınıza aşağıdaki uygulamardan birini yükleyebilirsiniz. 
+Coolmuster Android 
+                SMS 
+              + Contacts Recovery 
+Wondershare Dr. Fone for Android (root gerekli) 
+Andorid Data Recovery 
+Bu uygulamarı 
+                deneme 
+               sürümü ile ücretsiz olarak kullanabilirsiniz. Uygulamarın kendi içlerinde farklı özellikleri olsa bile temelde yaptıkları aynı. Telefonunuzu tarayıp silenen mesajları geri getirmek üç uygulamanın da temel özelliği. 
+ Silinen Mesajlar Nasıl Kurtarılır?  
+Yukarıda verdiğimiz programlara göre sizin için hazırladığımız adımlar farklılık gösterebilir ama temelde aynı adımları gerçekleştirmeniz yeterli olacaktır. 
+1.Kurtarma programını bilgisayarınıza yükleyin. 
+2.Android işletim sistemine sahip cihazınızın  Geliştirici Seçenekleri  kısmından  USB Hata Ayıklaması  özelliğini etkinleştirin. Bu özelliği etkinleştirmek için sırasıyla; 
+&bull;Telefonunuzun  Ayarlar  bölümüne girin. 
+&bull; Telefon Hakkında  seçeneğine dokunun. 
+&bull;Açılan ekranda  Derleme Numarası  seçeneğine  7 kere  dokunun. 
+&bull; Ayarlar  kısmına tekrar geri dönün ve  Geliştirici Seçenekleri  kısmına gelin. 
+&bull;Karşınıza gelen ekranda bulunan  USB Hata Ayıklama  seçeneğini seçin. 
+3.Cihazınızı bilgisayarınıza USB kablo ile bağlayın ve kurtarma programının çalıştığından emin olun. 
+4.Kurtarma programının  Scan  butonuna tıklayarak telefonunuzdan silinen verileri tarayın. 
+5.Tarama işlemi tamamlandıktan sonra programda bulunan  Messages  veya  SMS  bölümüne tıklayın. 
+6.Açılan ekranda silinmiş mesajlarınızı görebilirsiniz. Mesajlarınızı işaretleyip  Recovery  butonuna tıklayın. Ve silinen mesajlarınız yeniden cihazınızda. 
+Mobil deneyiminizi en üst seviyeye taşıyacak tüm ipuçlarını Fobito   da bulabilirsiniz. 
+   

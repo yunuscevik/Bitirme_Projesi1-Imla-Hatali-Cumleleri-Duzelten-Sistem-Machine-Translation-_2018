@@ -1,0 +1,8 @@
+﻿
+	Geçtiğimiz aylarda Türkçe Siri'yi getiren iOS 8.3'ü yayınlayan Apple, şu sıralarda ise yeni iOS 8.4 güncellemesi üzerinde çalışıyor. Aslında bu konuda geliştiricilerden de yardım alan Apple, iOS 8.4'ün betalarını da birer birer geliştiriciler için yayınlamaya devam ediyor. Bundan yaklaşık 2 hafta önce iOS 8.4'ün ikinci betasını yayınlayan Apple, şimdi de iOS 8.4 Beta 3'ü yayınladı. 
+
+	iOS 8.4'ün üçüncü betasını yayınlamak isteyenlerin ilk önce Apple'ın test programına kayıt olmaları gerekiyor. Bunun yanında iOS 8.4 cihazında kurulu olanlar, cihazlarının "Yazılım Güncelleme" bölümünden iOS 8.4 Beta 3'ü indirebilirler. 
+
+	Yenilenmiş iTunes Radio ve yenilenmiş Müzik uygulamasıyla dikkat çekecek olan iOS 8.4'ün 8 Haziran'da başlayacak olan WWDC 2015 etkinliğinde duyurulması bekleniyor 
+
+	Kaynak: Teknokulis 

@@ -1,0 +1,7 @@
+﻿
+	Türkiye’nin önde gelen mobil etkinliklerinden kabul edilen ve 11/12 Mayıs 2015 tarihlerinde ODTÜ Kültür ve Kongre Merkezinde herkese açık ve ücretsiz olarak gerçekleşecek olan Android Developer Days etkinliğine teknoloji devi Google’ın kıdemli mühendisi Stephan Linzner, Developer Relations sorumlusu Barış Yesugey , Google Developer Group Lider Organizatörü Andreu Ibanez, Stratejik Partner Yöneticisi Muge Yilmaz, Geliştirici Savunucusu Matt Sullivan gibi Google uzmanları konuşmacı olarak katılacak. 
+
+	Etkinlikte alanında uzman konuşmacıların sunumları yanında Android’e giriş, IOS’a Giriş, Cardboard, Unity,Android Wear,Polymer ve BLE gibi konularda çalıştaylar ve 24 saatlik kod yazma yarışması düzenlecek. 
+	Etkinlikte sunumlar ve çalıştaylar yanında eğlenceli aktiviteler de yer alacak. Katılımcılar Elektronik Yapbozlar görme, Sanal Gerçeklik ve Masa Oyunları oynama, İnteraktif ve eğlenceli DIY projelerini deneyerek keşfetme şansı, en yeni mini bilgisayar kartlarını ve android uyumlu maker ürünlerini inceleme imkanı ve 3 boyutlu yazıcıları görme imkanı bulacaktır. 
+
+	Android uygulaması da bulunan etkinliğe kayıtlar ücretsiz olarak androiddeveloperdays.com üzerinden gerçekleştirilebiliyor.  

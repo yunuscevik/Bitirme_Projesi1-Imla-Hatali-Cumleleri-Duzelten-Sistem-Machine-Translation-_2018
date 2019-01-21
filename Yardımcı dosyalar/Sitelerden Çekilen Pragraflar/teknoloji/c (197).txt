@@ -1,0 +1,7 @@
+﻿
+	Teknoloji devi Google, San Francisco kentinde organize edilen Google I/O 2015 etkinliğinde yeni işletim sistemini tanıttı. Google’ın tanıtımını yapmış olduğu yeni sürümü ‘Anroid M’ sistemsel olarak gelişim gösterirken Android kullanıcılarının bu uygulamaya oldukça beğenmesi bekleniyor. 
+
+	Teknoloji devi, Android’in ‘M’ sürümüyle birlikte bir çok sistemsel hatasının düzeltileceğini belirtirken, parmak izi taraması fonksiyonel olarak daha çeşitli bir duruma gelecek. Kullanıcılar bu sayede Google Play gibi uygulamalarda ödeme yapabilecek. Android’in yeni sürümünün tahminen yıl sonuna doğru kullanıcılarla buluşması bekleniyor. 
+
+	Google konferansta Google Pay’in tanıtımını dagerçekleştirirken bu uygulamanın Apple Pay’e ciddi bir rakip olması hedefleniyor. Adroid Pay, Android 4.4 (Kit Kat) ve üzerindeki sürümlerde kullanılabilecek. 
+	  

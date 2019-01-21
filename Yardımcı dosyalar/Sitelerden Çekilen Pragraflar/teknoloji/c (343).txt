@@ -1,0 +1,12 @@
+﻿Kimi 
+                zaman 
+               kullandığımız uygulamaların kendileri ya da bu uygulamaların bizden habersiz gelen güncellemeleri, 
+                internet 
+               paketimizin tükenmesine ve faturamızın normal paketimizin ücretinin üzerinde bir meblağ ile gelmesine sebep oluyor. 
+Kontrolsüz şekilde kaybettiğimiz verilerimizin hesabını tutmak ve internet kullanımımızı paketimiz dahilinde kısıtlayabilmek için ise Windows Phone bize Akıllı Veri isimli bir uygulama ile destek oluyor ve fatura tutarımızın kabarmasına engel oluyor. 
+Veri aktarımınızı kontrol altında tutmak için Akıllı Veri (Data Sense) özelliğini aktif hale getirmeniz ve gerekli ayarlarını yapmanız gerekiyor. 
+ 
+Uygulama listenizden Akıllı Veri (Data Sense) seçeneğine dokunun ve uygulamanın Ayarlar seçeneğine girerek Arka Plan Verilerini Kısıtla fonksiyonunu aktif hale getirin. 
+Ardından internet paketinizin bitmesine yakın daha az internet kullanımı sağlamak için  Sınıra Yaklaştığımda  seçeneğini işaretleyin. Arka planda harcanan verileri her zaman kısıtlamak için de aynı menüde  Her Zaman  seçeneğine dokunabilir ya da yine aynı menüde  Dolaşımda Olduğumda  seçeneğini işaretleyebilirsiniz. 
+Bunun yanı sıra internette gezerken açtığınız web sayfalarının da daha az veri harcaması için çeşitli ayarlar yapabildiğiniz Data Sense ile Standart, Yüksek ya da Otomatik tasarruf modlarını seçerek resim ve reklam gibi ekstra veri harcayan unsurların sıkıştırılarak görüntülenmesini ya da hiç görüntülenmemesini sağlayabilirsiniz. 
+Windows Phone un internet paketiniz ile tasarruf yapmanızı sağlayan uygulaması Data Sense (Akıllı Veri) uygulaması hakkında daha fazla bilgi edinmek için Fobito'daki ayrıntılı yazıyı   okuyabilirsiniz.  

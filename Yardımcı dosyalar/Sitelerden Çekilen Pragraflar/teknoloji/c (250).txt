@@ -1,0 +1,4 @@
+﻿
+	Nikola Labs tarafından tasarlanan kılıf, önce çevredeki radyo dalgalarını toplayıp enerjiye dönüştürüyor, ardından da bu enerjiyi bataryaya aktarıyor. 
+
+	Prototip aşamasında olan ürün, henüz bataryayı tamamen dolduramasa da şarj ömrünü uzatması ile iPhone’nun en çok eleştirilen sorunlarından olan ‘pil ömrü’ne çare olacak gibi gözüküyor. 

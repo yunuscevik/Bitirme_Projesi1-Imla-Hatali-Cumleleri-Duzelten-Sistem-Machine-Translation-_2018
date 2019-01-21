@@ -1,0 +1,10 @@
+﻿ 
+							
+							
+												
+						 Google, düzenlediği farklı programlar yoluyla 2010'dan bu yana 4 milyon dolardan fazla ödemede bulundu. Şimdiyse firma, Android'e özel yeni bir ödül programı oluşturduğunu duyurdu.  Android Security Rewards programında verilecek para ödülünün miktarı, kullanıcıların Android'de bulduğu açığın türüne ve sarf ettiği emeğe göre belirlenecek. Basit, tekrarlaması kolay olan bir hata, size yaklaşık 2.000 dolar  kazandıracak. Hatayı bulup, bir test ortamıyla yama oluşturan veya kritik bir sorunu bulanlar, yaklaşık 38.000 dolar ödül kazanacaklar. Yüklü sayılabilecek bu ödüller, Android'de gizli kalan açıkların ortaya çıkmasını sağlayacak gibi görünüyor.  Bir başka yenilik ise Google'ın geliştiricileri Google Play'deki uygulamalarındaki potansiyel açıklar için uyaracak olması. Firma geliştiricileri şimdiye kadar sadece sorunlar konusunda uyarmaktaydı. Örnek vermek gerekirse Google, uygulama geliştiricilerini OpenSSL'nin yeni sürümüne geçmeleri konusunda uyarmaya başlamış bulunuyor.  Güvenlik açığı aramaya koyulacak güvenlik araştırmacıları için önemli bir bilgi, yalnızca Nexus 6 ve Nexus 9'daki açıkların geçerli sayılacağı.  GOOGLE'IN SÜRÜCÜSÜZ OTOMOBİLLERİ        							
+						
+							
+						
+						
+							

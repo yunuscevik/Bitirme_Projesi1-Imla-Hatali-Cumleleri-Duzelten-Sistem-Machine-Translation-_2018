@@ -1,0 +1,12 @@
+﻿
+	BTK’dan yapılan açıklamada, bazı basın-yayın organları ile internet sitelerinde yer alan “Cep telefonunuz kaybolunca aman dikkat” başlığı ile yayınlanan ve hatalı bilgiler içeren haberler üzerine açıklama yapılmasına ihtiyaç duyulduğu belirtilerek, “Rızası dışında mobil telefonu elinden çıkan vatandaşların öncelikli olarak Bilgi Teknolojileri ve İletişim Kurumu bünyesinde kurulmuş bulunan ve 7 gün 24 saat hizmet veren Bilgi ve İhbar Merkezi’ni araması gerekmektedir. En son kullanılan hattın yasal sahibi tarafından BTK bünyesinde kurulan Bilgi ve İhbar Merkezi’ne ait 0 312 294 94 94 numaralı telefon aranarak 15 haneli IMEI numaranızı, kimlik bilgilerinizi ve telefonunuzu en son kullandığınız zamanı bildirmeniz, verdiğiniz bilgilerin abonesi olduğunuz en son işletmeciniz tarafından doğrulanması durumunda ilgili telefon iletişime kapatılmaktadır” ifadesi kullanıldı. 
+
+	 SMS GÖNDERİLİYOR  
+
+	“Bilgi ve İhbar Merkezine ihbar edilen telefonlara cihazın en yakın kolluk kuvvetine teslim edilmesi yönünde yasal uyarı SMS’i gönderilmektedir” denilen açıklamada şu uyarılarda bulunuldu: 
+
+	“Kayıp veya çalıntı olması nedeniyle iletişime kapatılan telefonun başka bir SİM kartı takılarak kullanılmasının önüne geçilmektedir. 
+
+	Bu ihbarı hızlı bir biçimde yapılabilmesi için telefonun IMEI numarasının bilinmesi büyük önem taşımaktadır. Kullanılan mobil telefon cihazlarına ait IMEI numarası mobil telefonlardan *#06# tuşlarına basılarak telefon ekranında gözüken numaradır ve ihtiyaç olduğunda ulaşabilecek bir yere not edilmesi aboneler için önem taşımaktadır. Cihazın üzerinde bulunan kendi SİM kartınızın kullanılmasını engellemek için ise GSM operatörünüzü arayarak hattınızı da kapattırmanız gerekmektedir. Hırsızlık, gasp ve kapkaç gibi durumlar söz konusu ise savcılıklara, ikametgahınıza veya olayın gerçekleştiği ilçe emniyet müdürlüğüne başvurularak şikayetçi olunması önem taşımaktadır. 
+
+	Cihazı tekrar kendisine iletilen veya bulunan kişilerin telefonunu hangi yolla kapattırdı ise (bilgi ve ihbar merkezi veya savcılık üzerinden) aynı yolla tekrar iletişime açtırması gerekiyor. Yani telefon ile ihbarda bulunulduysa yine Bilgi İhbar Merkezinin aranması, savcılık talimatı ile ihbarda bulunulduysa cihaz bulununca yine savcılığa başvurulması gerekmektedir.” 

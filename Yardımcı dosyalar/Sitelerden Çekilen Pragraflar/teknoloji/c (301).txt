@@ -1,0 +1,12 @@
+﻿Tayvanlı Rockchip, düşük 
+                enerji 
+               tüketimi ile dikkat çeken yeni ARM tabanlı RKi6000 Wi-Fi yongasını tanıttı. Düşük enerji tüketimi derken tam olarak ne anlatıldığını şu şekilde özetleyebiliriz: Eğer yonga bir adet AAA pil ile çalışsaydı, bu pilin tamamen tükenmesi için 35 yıl geçmesi gerekecekti. 
+Bu yongayı geliştirilen üçüncü 
+                parti 
+               ekip halen anonim olarak gözükmekte ancak, yonganın arkasından Intel çıkarsa açıkçası pek şaşırmayız. Zira Rockchip'in, Intel ile önemli ortaklığı bulunmakta. 
+20mA düşük yükte iken, yonganın enerji tüketimi Bluetooth 4.0LE'ye eşit ve bu da diğer kablosuz ürünlerin kullanacağının yaklaşık olarak yedide biri anlamına geliyor. RKi6000, Wi-Fi 802.11b ile çalışmakta. Bunun çok hızlı olmadığı söylenebilirken, BT 4.0 (1Mbps) veya Zigbee'ye (0.25Mbps) göre çok daha hızlı olduğu kesin. 
+Rockchip, RKi6000'ya sahip cihazların 2015'in üçüncü çeyreğinde sunulacağını da duyurdu. Bu cihazlar arasında giyilebilir 
+                teknoloji 
+               ürünleri, akıllı ev aletleri ve 
+                güvenlik 
+               cihazları bulunacak.  
